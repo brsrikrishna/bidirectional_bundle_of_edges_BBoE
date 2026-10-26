@@ -145,3 +145,21 @@ d918fcb5de71b0316f9d08695e2e5b626e3a7410f50594afcd89297e3ba38c4f  eb_unicycle_di
 
 MIT, see [LICENSE](LICENSE).
 
+
+## Replication record
+
+Every benchmark script in this repository was rerun on 2026-10-26, as committed here, on the reference laptop (the machine the published results come from) and compared with the shipped logs using `tools/summarize_log.py`. Given the seeds, the search itself is deterministic: wherever a planner solved the same seeds, its mean path cost matched the published value exactly. What varies is the 5 s wall-clock budget. A seed whose published solution time was close to 5 s can time out in a rerun, and a published timeout can succeed, depending on machine load; several of these reruns were executed three at a time, which penalizes planners that finish near the budget.
+
+| Benchmark | BBoE, published → rerun | Other planners |
+|---|---|---|
+| Unicycle | 50/50 at 0.23 s → 50/50 at 0.25 s | identical for all, except BoE 24 → 16 (its successes average 4.5 s) |
+| Treaded vehicle | 48/50 at 1.47 s → 47/50 at 1.61 s | one or two fewer successes for every planner except BoE (48/50 in both) |
+| Car with trailer | 50/50 at 0.71 s → 50/50 at 0.83 s | identical for all, except GBRRT 50 → 48 |
+| Quadrotor | 48/50 at 1.66 s → 48/50 at 1.52 s | RRT 45 → 48, SST 26 → 27, GBRRT 44 → 45, dB-RRT-C 24 → 25, others identical |
+| Easy, medium and hard tiers | 50/50 on each, times within 0.01 s | all ten planners identical in success and cost |
+| Very-hard tier | 50/50 at 0.35 s → 49/50 at 0.24 s | SST-MC 41 → 44, others identical |
+| Table III(a), N sweep | 50/50 for N = 5, 20 and 100 in both; N = 1: 48 → 50 | times 0.02 to 0.2 s slower under load |
+| Table III(b), k_bias sweep | identical for k_bias ≥ 0.25; k_bias = 0: 42 → 35 | |
+| Table III(c), unidirectional | very hard 44/50 in both; easy 50 → 49; medium and hard identical | |
+
+The one very-hard seed BBoE missed (environment seed 63263, planner seed 76552) was solved in 4.88 s in the published run and timed out at 5.00 s in two reruns, one of them with BBoE running alone; on this hardware that seed sits on the budget boundary, while the other 199 tier trials reproduced exactly. `plot_seed50_results.py` and `success_rate_table.py` regenerate the shipped PNG files and tables byte for byte from the shipped logs, the Fig. 3 pipeline runs end to end, and `tools/generate_edge_bundles.py --verify` reproduces every bundle as described above.
