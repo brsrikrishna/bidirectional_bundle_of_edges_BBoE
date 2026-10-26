@@ -1,0 +1,10 @@
+Ablation 3 — Unidirectional BBoE (50 seeds, 5 s budget)
+Forward tree only, NO goal bias, biased/random skipping retained
+Time / cost format: mean [min, max] over successful trials only.
+
+  Difficulty  | Success    | Time (s)                   | Cost                      
+  ----------------------------------------------------------------------------------
+  Easy        | 50/50      | 0.162 [0.029,0.463]        | 143.05 [123.00,168.50]    
+  Medium      | 50/50      | 0.122 [0.031,0.410]        | 166.24 [134.00,225.00]    
+  Hard        | 50/50      | 0.179 [0.042,0.833]        | 166.64 [132.00,253.00]    
+  Very Hard   | 44/50      | 0.281 [0.029,1.451]        | 193.04 [147.00,297.00]    

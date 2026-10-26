@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "BBoE: Leveraging Bundle of Edges for Kinodynamic Bidirectional Motion Planning"
+authors:
+  - family-names: Bangalore Raghu
+    given-names: Srikrishna
+  - family-names: Roncone
+    given-names: Alessandro
+year: 2026
+journal: "IEEE Robotics and Automation Letters"
+license: MIT
+repository-code: "https://github.com/brsrikrishna/bidirectional_bundle_of_edges_BBoE"

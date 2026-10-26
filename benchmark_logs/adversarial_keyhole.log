@@ -1,0 +1,5 @@
+Adversarial keyhole: BAND=0.12 m, slot/chamber W=0.52 m, plate=3.0 m, jog D=4.0 m, R_eff=0.2 m
+Continuous-control reference trajectory valid: True
+BBoE (190-edge library)            budget=  5.0s  success=0/50
+BBoE (190-edge library)            budget= 30.0s  success=0/10
+RRT-MC continuous controls         budget=  5.0s  success=2/50  mean_time=4.63s

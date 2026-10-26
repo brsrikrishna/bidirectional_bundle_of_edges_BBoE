@@ -1,0 +1,597 @@
+Env rendered to: media/seed50_plots/quadrotor_narrow_env.png
+
+Warming up JIT...
+Warm-up done.
+
+
+=======================================================
+Trial 1/50 | Seed: 0
+=======================================================
+RRT:      ✅ | Time: 2.83s | Cost: 109.20
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 3.28s | Cost: 103.00
+BBoE:     ✅ | Time: 0.96s | Cost: 114.10
+Db-RRT-F: ✅ | Time: 1.66s | Cost: 130.10
+Db-RRT-C: ✅ | Time: 2.71s | Cost: 144.40
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 2/50 | Seed: 1
+=======================================================
+RRT:      ✅ | Time: 0.48s | Cost: 97.90
+SST:      ✅ | Time: 4.40s | Cost: 97.00
+GBRRT:    ✅ | Time: 0.58s | Cost: 96.50
+BBoE:     ✅ | Time: 0.83s | Cost: 93.70
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 2.31s | Cost: 145.60
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 3/50 | Seed: 2
+=======================================================
+RRT:      ❌ | Time: 5.00s | Cost: inf
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.09s | Cost: 91.20
+BBoE:     ✅ | Time: 2.15s | Cost: 82.70
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 3.48s | Cost: 153.30
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 4/50 | Seed: 3
+=======================================================
+RRT:      ✅ | Time: 0.90s | Cost: 109.20
+SST:      ✅ | Time: 2.15s | Cost: 100.70
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 1.42s | Cost: 95.30
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.03s | Cost: inf
+
+=======================================================
+Trial 5/50 | Seed: 4
+=======================================================
+RRT:      ❌ | Time: 5.00s | Cost: inf
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.10s | Cost: 91.00
+BBoE:     ✅ | Time: 0.88s | Cost: 85.20
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 6/50 | Seed: 5
+=======================================================
+RRT:      ✅ | Time: 0.96s | Cost: 94.90
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.16s | Cost: 106.00
+BBoE:     ✅ | Time: 3.62s | Cost: 92.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 7/50 | Seed: 6
+=======================================================
+RRT:      ✅ | Time: 1.59s | Cost: 113.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 0.78s | Cost: 93.20
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 2.18s | Cost: 141.30
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 8/50 | Seed: 7
+=======================================================
+RRT:      ❌ | Time: 5.00s | Cost: inf
+SST:      ✅ | Time: 3.02s | Cost: 96.60
+GBRRT:    ✅ | Time: 0.76s | Cost: 86.90
+BBoE:     ✅ | Time: 2.80s | Cost: 110.90
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 9/50 | Seed: 8
+=======================================================
+RRT:      ✅ | Time: 1.25s | Cost: 96.40
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 0.56s | Cost: 87.20
+BBoE:     ✅ | Time: 0.33s | Cost: 91.00
+Db-RRT-F: ✅ | Time: 3.86s | Cost: 111.60
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.12s | Cost: inf
+
+=======================================================
+Trial 10/50 | Seed: 9
+=======================================================
+RRT:      ✅ | Time: 2.93s | Cost: 94.80
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.25s | Cost: 92.00
+BBoE:     ✅ | Time: 0.66s | Cost: 85.40
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 11/50 | Seed: 10
+=======================================================
+RRT:      ✅ | Time: 2.34s | Cost: 94.00
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 1.01s | Cost: 106.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 12/50 | Seed: 11
+=======================================================
+RRT:      ✅ | Time: 0.30s | Cost: 100.30
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.63s | Cost: 97.40
+BBoE:     ✅ | Time: 1.47s | Cost: 95.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 13/50 | Seed: 12
+=======================================================
+RRT:      ❌ | Time: 5.00s | Cost: inf
+SST:      ✅ | Time: 4.15s | Cost: 104.40
+GBRRT:    ✅ | Time: 1.13s | Cost: 93.80
+BBoE:     ✅ | Time: 2.18s | Cost: 79.40
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 14/50 | Seed: 13
+=======================================================
+RRT:      ✅ | Time: 1.70s | Cost: 95.10
+SST:      ✅ | Time: 2.55s | Cost: 87.40
+GBRRT:    ✅ | Time: 2.53s | Cost: 96.80
+BBoE:     ✅ | Time: 0.45s | Cost: 82.40
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 15/50 | Seed: 14
+=======================================================
+RRT:      ✅ | Time: 3.03s | Cost: 110.30
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.16s | Cost: 91.60
+BBoE:     ✅ | Time: 0.99s | Cost: 85.30
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 16/50 | Seed: 15
+=======================================================
+RRT:      ✅ | Time: 3.57s | Cost: 113.50
+SST:      ✅ | Time: 4.59s | Cost: 89.90
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 4.04s | Cost: 113.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 17/50 | Seed: 16
+=======================================================
+RRT:      ✅ | Time: 4.74s | Cost: 120.40
+SST:      ✅ | Time: 1.00s | Cost: 99.70
+GBRRT:    ✅ | Time: 4.68s | Cost: 99.60
+BBoE:     ✅ | Time: 0.71s | Cost: 111.10
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 2.21s | Cost: 138.00
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 18/50 | Seed: 17
+=======================================================
+RRT:      ✅ | Time: 3.44s | Cost: 98.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 2.00s | Cost: 93.90
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.06s | Cost: inf
+
+=======================================================
+Trial 19/50 | Seed: 18
+=======================================================
+RRT:      ✅ | Time: 0.68s | Cost: 84.30
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.81s | Cost: 97.90
+BBoE:     ✅ | Time: 2.07s | Cost: 92.10
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 20/50 | Seed: 19
+=======================================================
+RRT:      ✅ | Time: 3.39s | Cost: 113.60
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 0.81s | Cost: 111.20
+BBoE:     ✅ | Time: 2.00s | Cost: 83.70
+Db-RRT-F: ✅ | Time: 4.36s | Cost: 132.00
+Db-RRT-C: ✅ | Time: 4.41s | Cost: 141.40
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 21/50 | Seed: 20
+=======================================================
+RRT:      ✅ | Time: 2.18s | Cost: 102.60
+SST:      ✅ | Time: 2.18s | Cost: 103.40
+GBRRT:    ✅ | Time: 1.84s | Cost: 105.60
+BBoE:     ✅ | Time: 1.49s | Cost: 88.80
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.35s | Cost: 159.90
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 22/50 | Seed: 21
+=======================================================
+RRT:      ✅ | Time: 3.51s | Cost: 124.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.13s | Cost: 100.80
+BBoE:     ✅ | Time: 4.63s | Cost: 101.90
+Db-RRT-F: ✅ | Time: 0.72s | Cost: 123.10
+Db-RRT-C: ✅ | Time: 4.21s | Cost: 161.10
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 23/50 | Seed: 22
+=======================================================
+RRT:      ✅ | Time: 2.03s | Cost: 95.50
+SST:      ✅ | Time: 1.07s | Cost: 114.50
+GBRRT:    ✅ | Time: 1.53s | Cost: 121.30
+BBoE:     ✅ | Time: 1.22s | Cost: 84.90
+Db-RRT-F: ✅ | Time: 3.79s | Cost: 125.60
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 24/50 | Seed: 23
+=======================================================
+RRT:      ✅ | Time: 4.29s | Cost: 103.30
+SST:      ✅ | Time: 0.75s | Cost: 97.70
+GBRRT:    ✅ | Time: 1.93s | Cost: 118.10
+BBoE:     ✅ | Time: 1.44s | Cost: 90.30
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.02s | Cost: inf
+
+=======================================================
+Trial 25/50 | Seed: 24
+=======================================================
+RRT:      ❌ | Time: 5.00s | Cost: inf
+SST:      ✅ | Time: 0.82s | Cost: 102.50
+GBRRT:    ✅ | Time: 0.90s | Cost: 80.30
+BBoE:     ✅ | Time: 1.58s | Cost: 88.40
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 26/50 | Seed: 25
+=======================================================
+RRT:      ✅ | Time: 2.77s | Cost: 98.10
+SST:      ✅ | Time: 2.02s | Cost: 98.60
+GBRRT:    ✅ | Time: 3.64s | Cost: 101.60
+BBoE:     ✅ | Time: 0.72s | Cost: 81.90
+Db-RRT-F: ✅ | Time: 3.50s | Cost: 109.10
+Db-RRT-C: ✅ | Time: 4.64s | Cost: 158.10
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 27/50 | Seed: 26
+=======================================================
+RRT:      ✅ | Time: 0.57s | Cost: 88.80
+SST:      ✅ | Time: 2.74s | Cost: 94.10
+GBRRT:    ✅ | Time: 0.91s | Cost: 95.40
+BBoE:     ✅ | Time: 0.55s | Cost: 95.90
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 28/50 | Seed: 27
+=======================================================
+RRT:      ✅ | Time: 2.29s | Cost: 101.50
+SST:      ✅ | Time: 1.09s | Cost: 100.10
+GBRRT:    ✅ | Time: 1.78s | Cost: 113.60
+BBoE:     ✅ | Time: 1.05s | Cost: 99.40
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 3.66s | Cost: 127.10
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 29/50 | Seed: 28
+=======================================================
+RRT:      ✅ | Time: 3.81s | Cost: 115.00
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 3.83s | Cost: 102.00
+BBoE:     ❌ | Time: 5.00s | Cost: inf
+Db-RRT-F: ✅ | Time: 1.76s | Cost: 111.90
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 30/50 | Seed: 29
+=======================================================
+RRT:      ✅ | Time: 0.37s | Cost: 98.30
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.38s | Cost: 108.60
+BBoE:     ✅ | Time: 0.25s | Cost: 80.50
+Db-RRT-F: ✅ | Time: 3.13s | Cost: 115.10
+Db-RRT-C: ✅ | Time: 1.65s | Cost: 149.60
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 31/50 | Seed: 30
+=======================================================
+RRT:      ✅ | Time: 2.12s | Cost: 117.40
+SST:      ✅ | Time: 2.52s | Cost: 105.90
+GBRRT:    ✅ | Time: 1.37s | Cost: 97.60
+BBoE:     ✅ | Time: 0.87s | Cost: 79.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 1.13s | Cost: 132.00
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 32/50 | Seed: 31
+=======================================================
+RRT:      ✅ | Time: 4.42s | Cost: 91.90
+SST:      ✅ | Time: 4.07s | Cost: 105.40
+GBRRT:    ✅ | Time: 3.40s | Cost: 90.90
+BBoE:     ✅ | Time: 3.47s | Cost: 125.30
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.63s | Cost: 146.50
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 33/50 | Seed: 32
+=======================================================
+RRT:      ✅ | Time: 1.57s | Cost: 118.70
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 0.31s | Cost: 91.20
+BBoE:     ✅ | Time: 4.50s | Cost: 85.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 2.66s | Cost: 146.90
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 34/50 | Seed: 33
+=======================================================
+RRT:      ✅ | Time: 1.83s | Cost: 97.70
+SST:      ✅ | Time: 2.27s | Cost: 106.20
+GBRRT:    ✅ | Time: 0.54s | Cost: 86.00
+BBoE:     ✅ | Time: 3.21s | Cost: 103.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 35/50 | Seed: 34
+=======================================================
+RRT:      ✅ | Time: 2.66s | Cost: 104.30
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 1.05s | Cost: 113.50
+BBoE:     ❌ | Time: 5.00s | Cost: inf
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.63s | Cost: 144.50
+BoE:      ❌ | Time: 5.02s | Cost: inf
+
+=======================================================
+Trial 36/50 | Seed: 35
+=======================================================
+RRT:      ✅ | Time: 1.40s | Cost: 95.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 0.76s | Cost: 106.00
+BBoE:     ✅ | Time: 0.61s | Cost: 96.20
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 37/50 | Seed: 36
+=======================================================
+RRT:      ✅ | Time: 2.53s | Cost: 92.90
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 3.04s | Cost: 108.20
+BBoE:     ✅ | Time: 1.08s | Cost: 103.20
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.10s | Cost: 134.90
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 38/50 | Seed: 37
+=======================================================
+RRT:      ✅ | Time: 0.50s | Cost: 97.90
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 3.41s | Cost: 103.00
+BBoE:     ✅ | Time: 0.92s | Cost: 95.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 1.85s | Cost: 145.60
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 39/50 | Seed: 38
+=======================================================
+RRT:      ✅ | Time: 0.92s | Cost: 94.60
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.03s | Cost: 88.80
+BBoE:     ✅ | Time: 0.91s | Cost: 100.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.58s | Cost: 164.70
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 40/50 | Seed: 39
+=======================================================
+RRT:      ✅ | Time: 1.99s | Cost: 94.80
+SST:      ✅ | Time: 2.43s | Cost: 89.60
+GBRRT:    ✅ | Time: 1.76s | Cost: 95.50
+BBoE:     ✅ | Time: 0.87s | Cost: 93.30
+Db-RRT-F: ✅ | Time: 2.77s | Cost: 125.00
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 41/50 | Seed: 40
+=======================================================
+RRT:      ✅ | Time: 0.87s | Cost: 105.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 0.72s | Cost: 94.80
+BBoE:     ✅ | Time: 0.65s | Cost: 93.50
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 42/50 | Seed: 41
+=======================================================
+RRT:      ✅ | Time: 0.60s | Cost: 113.20
+SST:      ✅ | Time: 1.95s | Cost: 106.30
+GBRRT:    ✅ | Time: 3.06s | Cost: 103.90
+BBoE:     ✅ | Time: 2.21s | Cost: 87.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 1.10s | Cost: 131.00
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 43/50 | Seed: 42
+=======================================================
+RRT:      ✅ | Time: 2.95s | Cost: 119.10
+SST:      ❌ | Time: 5.00s | Cost: inf
+GBRRT:    ✅ | Time: 2.71s | Cost: 101.50
+BBoE:     ✅ | Time: 2.75s | Cost: 107.10
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 1.85s | Cost: 140.30
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 44/50 | Seed: 43
+=======================================================
+RRT:      ✅ | Time: 0.95s | Cost: 98.90
+SST:      ✅ | Time: 2.17s | Cost: 92.90
+GBRRT:    ✅ | Time: 2.44s | Cost: 93.90
+BBoE:     ✅ | Time: 2.85s | Cost: 100.10
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 1.77s | Cost: 133.20
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 45/50 | Seed: 44
+=======================================================
+RRT:      ✅ | Time: 2.18s | Cost: 90.20
+SST:      ✅ | Time: 4.76s | Cost: 95.90
+GBRRT:    ✅ | Time: 3.89s | Cost: 89.80
+BBoE:     ✅ | Time: 0.89s | Cost: 98.30
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 3.80s | Cost: 131.60
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 46/50 | Seed: 45
+=======================================================
+RRT:      ✅ | Time: 2.62s | Cost: 112.80
+SST:      ✅ | Time: 4.42s | Cost: 102.40
+GBRRT:    ❌ | Time: 5.00s | Cost: inf
+BBoE:     ✅ | Time: 1.88s | Cost: 96.00
+Db-RRT-F: ✅ | Time: 1.11s | Cost: 105.90
+Db-RRT-C: ✅ | Time: 0.87s | Cost: 126.50
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 47/50 | Seed: 46
+=======================================================
+RRT:      ✅ | Time: 1.21s | Cost: 109.30
+SST:      ✅ | Time: 4.61s | Cost: 101.20
+GBRRT:    ✅ | Time: 0.90s | Cost: 105.50
+BBoE:     ✅ | Time: 3.60s | Cost: 98.00
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.00s | Cost: inf
+
+=======================================================
+Trial 48/50 | Seed: 47
+=======================================================
+RRT:      ✅ | Time: 1.10s | Cost: 102.70
+SST:      ✅ | Time: 1.94s | Cost: 96.50
+GBRRT:    ✅ | Time: 2.10s | Cost: 104.10
+BBoE:     ✅ | Time: 1.25s | Cost: 86.10
+Db-RRT-F: ✅ | Time: 4.34s | Cost: 121.20
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 49/50 | Seed: 48
+=======================================================
+RRT:      ✅ | Time: 4.17s | Cost: 104.50
+SST:      ✅ | Time: 0.75s | Cost: 103.90
+GBRRT:    ✅ | Time: 0.65s | Cost: 88.60
+BBoE:     ✅ | Time: 1.12s | Cost: 95.60
+Db-RRT-F: ❌ | Time: 5.00s | Cost: inf
+Db-RRT-C: ✅ | Time: 4.99s | Cost: 136.40
+BoE:      ❌ | Time: 5.01s | Cost: inf
+
+=======================================================
+Trial 50/50 | Seed: 49
+=======================================================
+RRT:      ✅ | Time: 0.55s | Cost: 93.50
+SST:      ✅ | Time: 1.50s | Cost: 92.90
+GBRRT:    ✅ | Time: 2.13s | Cost: 93.60
+BBoE:     ✅ | Time: 1.56s | Cost: 93.70
+Db-RRT-F: ✅ | Time: 3.70s | Cost: 127.80
+Db-RRT-C: ❌ | Time: 5.00s | Cost: inf
+BoE:      ❌ | Time: 5.02s | Cost: inf
+
+
+=======================================================
+BENCHMARK RESULTS (Averages over successful runs)
+Start=(4.0, 12.0, 5.0)  Goal=(36.0, 28.0, 7.0)  goal_radius=2.0
+Planning budget per planner per seed: 5.0s, seeds=50
+=======================================================
+[RRT]
+  Success Rate : 90.0% (45/50)
+  Avg Planning : 2.069 s
+  Avg Path Cost: 102.820
+
+[SST]
+  Success Rate : 52.0% (26/50)
+  Avg Planning : 2.536 s
+  Avg Path Cost: 99.450
+
+[GBRRT]
+  Success Rate : 88.0% (44/50)
+  Avg Planning : 1.879 s
+  Avg Path Cost: 98.768
+
+[BBoE]
+  Success Rate : 96.0% (48/50)
+  Avg Planning : 1.656 s
+  Avg Path Cost: 94.496
+
+[Db-RRT-F]
+  Success Rate : 24.0% (12/50)
+  Avg Planning : 2.891 s
+  Avg Path Cost: 119.867
+
+[Db-RRT-C]
+  Success Rate : 48.0% (24/50)
+  Avg Planning : 3.072 s
+  Avg Path Cost: 143.079
+
+[BoE]
+  Success Rate : 0.0% (0/50)
+  Avg Planning : inf s
+  Avg Path Cost: inf
+

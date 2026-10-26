@@ -1,0 +1,758 @@
+Warming up JIT...
+Warm-up done.
+
+
+=======================================================
+Trial 1/50 | Seed: 0
+=======================================================
+RRT-MC: ✅ | Time: 0.61s | Path Cost: 181.00
+RRT-EB: ✅ | Time: 0.69s | Path Cost: 185.00
+SST-MC: ✅ | Time: 1.17s | Path Cost: 178.00
+SST-EB: ✅ | Time: 1.76s | Path Cost: 164.00
+GBRRT-MC: ✅ | Time: 0.42s | Path Cost: 197.00
+GBRRT-EB: ✅ | Time: 0.60s | Path Cost: 190.00
+BBoE: ✅ | Time: 0.30s | Path Cost: 190.00
+Db-RRT-F: ✅ | Time: 0.63s | Path Cost: 212.00
+Db-RRT-C: ✅ | Time: 0.18s | Path Cost: 208.00
+BoE: ✅ | Time: 4.25s | Path Cost: 138.50
+
+=======================================================
+Trial 2/50 | Seed: 1
+=======================================================
+RRT-MC: ✅ | Time: 0.19s | Path Cost: 185.00
+RRT-EB: ✅ | Time: 0.36s | Path Cost: 183.00
+SST-MC: ✅ | Time: 0.25s | Path Cost: 185.00
+SST-EB: ✅ | Time: 0.40s | Path Cost: 166.00
+GBRRT-MC: ✅ | Time: 0.20s | Path Cost: 176.00
+GBRRT-EB: ✅ | Time: 0.32s | Path Cost: 186.00
+BBoE: ✅ | Time: 0.28s | Path Cost: 199.00
+Db-RRT-F: ✅ | Time: 0.33s | Path Cost: 192.00
+Db-RRT-C: ✅ | Time: 0.46s | Path Cost: 234.00
+BoE: ✅ | Time: 4.32s | Path Cost: 142.50
+
+=======================================================
+Trial 3/50 | Seed: 2
+=======================================================
+RRT-MC: ✅ | Time: 0.48s | Path Cost: 177.00
+RRT-EB: ✅ | Time: 0.28s | Path Cost: 182.00
+SST-MC: ✅ | Time: 1.23s | Path Cost: 191.00
+SST-EB: ✅ | Time: 0.30s | Path Cost: 182.00
+GBRRT-MC: ✅ | Time: 0.62s | Path Cost: 194.00
+GBRRT-EB: ✅ | Time: 0.49s | Path Cost: 207.00
+BBoE: ✅ | Time: 0.10s | Path Cost: 194.00
+Db-RRT-F: ✅ | Time: 0.45s | Path Cost: 216.00
+Db-RRT-C: ✅ | Time: 0.96s | Path Cost: 248.00
+BoE: ✅ | Time: 4.87s | Path Cost: 145.60
+
+=======================================================
+Trial 4/50 | Seed: 3
+=======================================================
+RRT-MC: ✅ | Time: 0.81s | Path Cost: 179.00
+RRT-EB: ✅ | Time: 0.16s | Path Cost: 163.00
+SST-MC: ✅ | Time: 0.99s | Path Cost: 180.00
+SST-EB: ✅ | Time: 0.17s | Path Cost: 163.00
+GBRRT-MC: ✅ | Time: 0.27s | Path Cost: 181.00
+GBRRT-EB: ✅ | Time: 0.63s | Path Cost: 220.00
+BBoE: ✅ | Time: 0.11s | Path Cost: 175.00
+Db-RRT-F: ✅ | Time: 0.31s | Path Cost: 223.00
+Db-RRT-C: ✅ | Time: 0.26s | Path Cost: 237.00
+BoE: ❌ | Time: 5.03s | Path Cost: inf
+
+=======================================================
+Trial 5/50 | Seed: 4
+=======================================================
+RRT-MC: ✅ | Time: 0.62s | Path Cost: 192.00
+RRT-EB: ✅ | Time: 0.54s | Path Cost: 174.00
+SST-MC: ✅ | Time: 0.87s | Path Cost: 179.00
+SST-EB: ✅ | Time: 0.61s | Path Cost: 164.00
+GBRRT-MC: ✅ | Time: 0.88s | Path Cost: 198.00
+GBRRT-EB: ✅ | Time: 0.41s | Path Cost: 196.00
+BBoE: ✅ | Time: 0.15s | Path Cost: 200.00
+Db-RRT-F: ✅ | Time: 0.84s | Path Cost: 212.00
+Db-RRT-C: ✅ | Time: 0.31s | Path Cost: 252.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 6/50 | Seed: 5
+=======================================================
+RRT-MC: ✅ | Time: 0.88s | Path Cost: 178.40
+RRT-EB: ✅ | Time: 0.75s | Path Cost: 201.00
+SST-MC: ✅ | Time: 0.48s | Path Cost: 176.00
+SST-EB: ✅ | Time: 0.77s | Path Cost: 181.00
+GBRRT-MC: ✅ | Time: 0.77s | Path Cost: 194.00
+GBRRT-EB: ✅ | Time: 0.39s | Path Cost: 205.00
+BBoE: ✅ | Time: 0.17s | Path Cost: 186.00
+Db-RRT-F: ✅ | Time: 0.82s | Path Cost: 197.00
+Db-RRT-C: ✅ | Time: 0.36s | Path Cost: 222.00
+BoE: ✅ | Time: 4.14s | Path Cost: 137.60
+
+=======================================================
+Trial 7/50 | Seed: 6
+=======================================================
+RRT-MC: ✅ | Time: 0.51s | Path Cost: 181.00
+RRT-EB: ✅ | Time: 0.39s | Path Cost: 184.00
+SST-MC: ✅ | Time: 0.61s | Path Cost: 176.00
+SST-EB: ✅ | Time: 0.26s | Path Cost: 183.00
+GBRRT-MC: ✅ | Time: 0.22s | Path Cost: 175.00
+GBRRT-EB: ✅ | Time: 0.43s | Path Cost: 200.00
+BBoE: ✅ | Time: 0.14s | Path Cost: 185.00
+Db-RRT-F: ✅ | Time: 0.52s | Path Cost: 177.00
+Db-RRT-C: ✅ | Time: 0.30s | Path Cost: 234.00
+BoE: ✅ | Time: 4.25s | Path Cost: 141.00
+
+=======================================================
+Trial 8/50 | Seed: 7
+=======================================================
+RRT-MC: ✅ | Time: 0.37s | Path Cost: 172.00
+RRT-EB: ✅ | Time: 0.65s | Path Cost: 189.00
+SST-MC: ✅ | Time: 0.46s | Path Cost: 180.00
+SST-EB: ✅ | Time: 0.66s | Path Cost: 190.00
+GBRRT-MC: ✅ | Time: 0.32s | Path Cost: 180.00
+GBRRT-EB: ✅ | Time: 0.82s | Path Cost: 203.00
+BBoE: ✅ | Time: 0.39s | Path Cost: 223.00
+Db-RRT-F: ✅ | Time: 0.57s | Path Cost: 218.00
+Db-RRT-C: ✅ | Time: 0.50s | Path Cost: 229.00
+BoE: ✅ | Time: 4.86s | Path Cost: 144.50
+
+=======================================================
+Trial 9/50 | Seed: 8
+=======================================================
+RRT-MC: ✅ | Time: 0.41s | Path Cost: 188.00
+RRT-EB: ✅ | Time: 0.31s | Path Cost: 184.00
+SST-MC: ✅ | Time: 0.87s | Path Cost: 185.00
+SST-EB: ✅ | Time: 0.34s | Path Cost: 184.00
+GBRRT-MC: ✅ | Time: 0.67s | Path Cost: 203.00
+GBRRT-EB: ✅ | Time: 0.51s | Path Cost: 191.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 212.00
+Db-RRT-F: ✅ | Time: 0.97s | Path Cost: 224.00
+Db-RRT-C: ✅ | Time: 0.28s | Path Cost: 197.00
+BoE: ✅ | Time: 4.29s | Path Cost: 140.50
+
+=======================================================
+Trial 10/50 | Seed: 9
+=======================================================
+RRT-MC: ✅ | Time: 0.30s | Path Cost: 181.00
+RRT-EB: ✅ | Time: 0.44s | Path Cost: 169.00
+SST-MC: ✅ | Time: 0.35s | Path Cost: 177.00
+SST-EB: ✅ | Time: 0.48s | Path Cost: 169.00
+GBRRT-MC: ✅ | Time: 0.36s | Path Cost: 212.00
+GBRRT-EB: ✅ | Time: 0.75s | Path Cost: 197.00
+BBoE: ✅ | Time: 0.14s | Path Cost: 228.00
+Db-RRT-F: ✅ | Time: 0.35s | Path Cost: 228.00
+Db-RRT-C: ✅ | Time: 1.00s | Path Cost: 263.00
+BoE: ✅ | Time: 4.51s | Path Cost: 141.50
+
+=======================================================
+Trial 11/50 | Seed: 10
+=======================================================
+RRT-MC: ✅ | Time: 0.61s | Path Cost: 180.00
+RRT-EB: ✅ | Time: 0.32s | Path Cost: 184.00
+SST-MC: ✅ | Time: 0.65s | Path Cost: 193.00
+SST-EB: ✅ | Time: 0.74s | Path Cost: 180.00
+GBRRT-MC: ✅ | Time: 0.58s | Path Cost: 191.00
+GBRRT-EB: ✅ | Time: 0.78s | Path Cost: 185.00
+BBoE: ✅ | Time: 0.35s | Path Cost: 189.00
+Db-RRT-F: ✅ | Time: 1.74s | Path Cost: 199.00
+Db-RRT-C: ✅ | Time: 0.33s | Path Cost: 234.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 12/50 | Seed: 11
+=======================================================
+RRT-MC: ✅ | Time: 0.69s | Path Cost: 194.00
+RRT-EB: ✅ | Time: 0.49s | Path Cost: 185.00
+SST-MC: ✅ | Time: 0.67s | Path Cost: 182.00
+SST-EB: ✅ | Time: 1.16s | Path Cost: 181.00
+GBRRT-MC: ✅ | Time: 0.42s | Path Cost: 170.00
+GBRRT-EB: ✅ | Time: 0.71s | Path Cost: 200.00
+BBoE: ✅ | Time: 0.17s | Path Cost: 198.00
+Db-RRT-F: ✅ | Time: 1.04s | Path Cost: 213.00
+Db-RRT-C: ✅ | Time: 0.27s | Path Cost: 238.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 13/50 | Seed: 12
+=======================================================
+RRT-MC: ✅ | Time: 1.02s | Path Cost: 201.00
+RRT-EB: ✅ | Time: 0.50s | Path Cost: 182.00
+SST-MC: ✅ | Time: 0.59s | Path Cost: 185.00
+SST-EB: ✅ | Time: 0.58s | Path Cost: 185.00
+GBRRT-MC: ✅ | Time: 0.23s | Path Cost: 196.00
+GBRRT-EB: ✅ | Time: 0.42s | Path Cost: 181.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 179.00
+Db-RRT-F: ✅ | Time: 0.26s | Path Cost: 205.00
+Db-RRT-C: ✅ | Time: 0.64s | Path Cost: 268.00
+BoE: ✅ | Time: 4.42s | Path Cost: 141.70
+
+=======================================================
+Trial 14/50 | Seed: 13
+=======================================================
+RRT-MC: ✅ | Time: 0.63s | Path Cost: 194.00
+RRT-EB: ✅ | Time: 0.67s | Path Cost: 196.00
+SST-MC: ✅ | Time: 0.75s | Path Cost: 186.00
+SST-EB: ✅ | Time: 0.79s | Path Cost: 188.00
+GBRRT-MC: ✅ | Time: 0.48s | Path Cost: 166.00
+GBRRT-EB: ✅ | Time: 0.29s | Path Cost: 196.00
+BBoE: ✅ | Time: 0.10s | Path Cost: 172.00
+Db-RRT-F: ✅ | Time: 0.27s | Path Cost: 201.00
+Db-RRT-C: ✅ | Time: 1.58s | Path Cost: 240.00
+BoE: ✅ | Time: 4.39s | Path Cost: 139.50
+
+=======================================================
+Trial 15/50 | Seed: 14
+=======================================================
+RRT-MC: ✅ | Time: 0.59s | Path Cost: 177.00
+RRT-EB: ✅ | Time: 0.38s | Path Cost: 179.00
+SST-MC: ✅ | Time: 0.71s | Path Cost: 174.00
+SST-EB: ✅ | Time: 0.78s | Path Cost: 179.00
+GBRRT-MC: ✅ | Time: 0.40s | Path Cost: 184.00
+GBRRT-EB: ✅ | Time: 1.47s | Path Cost: 252.00
+BBoE: ✅ | Time: 0.30s | Path Cost: 213.00
+Db-RRT-F: ✅ | Time: 0.49s | Path Cost: 223.00
+Db-RRT-C: ✅ | Time: 0.21s | Path Cost: 216.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 16/50 | Seed: 15
+=======================================================
+RRT-MC: ✅ | Time: 0.37s | Path Cost: 186.00
+RRT-EB: ✅ | Time: 0.95s | Path Cost: 195.00
+SST-MC: ✅ | Time: 0.46s | Path Cost: 186.00
+SST-EB: ✅ | Time: 0.87s | Path Cost: 181.00
+GBRRT-MC: ✅ | Time: 0.20s | Path Cost: 183.00
+GBRRT-EB: ✅ | Time: 0.48s | Path Cost: 185.00
+BBoE: ✅ | Time: 0.19s | Path Cost: 203.00
+Db-RRT-F: ✅ | Time: 0.68s | Path Cost: 243.00
+Db-RRT-C: ✅ | Time: 0.57s | Path Cost: 261.00
+BoE: ✅ | Time: 4.01s | Path Cost: 139.50
+
+=======================================================
+Trial 17/50 | Seed: 16
+=======================================================
+RRT-MC: ✅ | Time: 0.42s | Path Cost: 175.00
+RRT-EB: ✅ | Time: 0.55s | Path Cost: 180.00
+SST-MC: ✅ | Time: 0.47s | Path Cost: 174.00
+SST-EB: ✅ | Time: 0.60s | Path Cost: 171.00
+GBRRT-MC: ✅ | Time: 0.42s | Path Cost: 171.00
+GBRRT-EB: ✅ | Time: 0.74s | Path Cost: 182.00
+BBoE: ✅ | Time: 0.25s | Path Cost: 190.00
+Db-RRT-F: ✅ | Time: 0.40s | Path Cost: 226.30
+Db-RRT-C: ✅ | Time: 0.31s | Path Cost: 190.00
+BoE: ✅ | Time: 4.25s | Path Cost: 142.50
+
+=======================================================
+Trial 18/50 | Seed: 17
+=======================================================
+RRT-MC: ✅ | Time: 0.32s | Path Cost: 179.00
+RRT-EB: ✅ | Time: 0.51s | Path Cost: 185.00
+SST-MC: ✅ | Time: 0.38s | Path Cost: 177.00
+SST-EB: ✅ | Time: 0.25s | Path Cost: 172.00
+GBRRT-MC: ✅ | Time: 0.35s | Path Cost: 182.00
+GBRRT-EB: ✅ | Time: 0.49s | Path Cost: 191.00
+BBoE: ✅ | Time: 0.46s | Path Cost: 202.00
+Db-RRT-F: ✅ | Time: 0.25s | Path Cost: 192.00
+Db-RRT-C: ✅ | Time: 0.28s | Path Cost: 278.00
+BoE: ✅ | Time: 4.51s | Path Cost: 142.50
+
+=======================================================
+Trial 19/50 | Seed: 18
+=======================================================
+RRT-MC: ✅ | Time: 1.35s | Path Cost: 189.00
+RRT-EB: ✅ | Time: 0.85s | Path Cost: 187.00
+SST-MC: ✅ | Time: 0.46s | Path Cost: 189.00
+SST-EB: ✅ | Time: 4.86s | Path Cost: 160.00
+GBRRT-MC: ✅ | Time: 0.73s | Path Cost: 215.00
+GBRRT-EB: ✅ | Time: 0.44s | Path Cost: 209.00
+BBoE: ✅ | Time: 0.25s | Path Cost: 195.00
+Db-RRT-F: ✅ | Time: 1.88s | Path Cost: 229.00
+Db-RRT-C: ✅ | Time: 0.34s | Path Cost: 235.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 20/50 | Seed: 19
+=======================================================
+RRT-MC: ✅ | Time: 1.59s | Path Cost: 182.00
+RRT-EB: ✅ | Time: 0.60s | Path Cost: 188.00
+SST-MC: ✅ | Time: 1.52s | Path Cost: 194.00
+SST-EB: ✅ | Time: 0.55s | Path Cost: 177.00
+GBRRT-MC: ✅ | Time: 0.46s | Path Cost: 206.00
+GBRRT-EB: ✅ | Time: 0.24s | Path Cost: 191.00
+BBoE: ✅ | Time: 0.11s | Path Cost: 230.00
+Db-RRT-F: ✅ | Time: 0.21s | Path Cost: 221.00
+Db-RRT-C: ✅ | Time: 0.23s | Path Cost: 233.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 21/50 | Seed: 20
+=======================================================
+RRT-MC: ✅ | Time: 0.54s | Path Cost: 173.00
+RRT-EB: ✅ | Time: 1.03s | Path Cost: 184.00
+SST-MC: ✅ | Time: 1.58s | Path Cost: 170.00
+SST-EB: ✅ | Time: 0.69s | Path Cost: 189.00
+GBRRT-MC: ✅ | Time: 0.75s | Path Cost: 194.00
+GBRRT-EB: ✅ | Time: 2.47s | Path Cost: 214.00
+BBoE: ✅ | Time: 0.33s | Path Cost: 193.00
+Db-RRT-F: ✅ | Time: 0.69s | Path Cost: 208.00
+Db-RRT-C: ✅ | Time: 0.48s | Path Cost: 218.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 22/50 | Seed: 21
+=======================================================
+RRT-MC: ✅ | Time: 1.30s | Path Cost: 179.00
+RRT-EB: ✅ | Time: 0.38s | Path Cost: 169.00
+SST-MC: ✅ | Time: 0.68s | Path Cost: 165.00
+SST-EB: ✅ | Time: 0.41s | Path Cost: 170.00
+GBRRT-MC: ✅ | Time: 0.43s | Path Cost: 203.00
+GBRRT-EB: ✅ | Time: 0.77s | Path Cost: 221.00
+BBoE: ✅ | Time: 0.17s | Path Cost: 180.00
+Db-RRT-F: ✅ | Time: 0.16s | Path Cost: 175.00
+Db-RRT-C: ✅ | Time: 0.52s | Path Cost: 235.00
+BoE: ✅ | Time: 5.00s | Path Cost: 142.60
+
+=======================================================
+Trial 23/50 | Seed: 22
+=======================================================
+RRT-MC: ✅ | Time: 0.52s | Path Cost: 185.00
+RRT-EB: ✅ | Time: 0.59s | Path Cost: 173.00
+SST-MC: ✅ | Time: 1.29s | Path Cost: 185.00
+SST-EB: ✅ | Time: 0.47s | Path Cost: 164.00
+GBRRT-MC: ✅ | Time: 0.47s | Path Cost: 201.00
+GBRRT-EB: ✅ | Time: 0.70s | Path Cost: 189.00
+BBoE: ✅ | Time: 0.33s | Path Cost: 197.00
+Db-RRT-F: ✅ | Time: 0.62s | Path Cost: 231.00
+Db-RRT-C: ✅ | Time: 0.37s | Path Cost: 233.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 24/50 | Seed: 23
+=======================================================
+RRT-MC: ✅ | Time: 0.41s | Path Cost: 169.00
+RRT-EB: ✅ | Time: 0.89s | Path Cost: 189.00
+SST-MC: ✅ | Time: 0.79s | Path Cost: 181.00
+SST-EB: ✅ | Time: 1.88s | Path Cost: 172.00
+GBRRT-MC: ✅ | Time: 0.31s | Path Cost: 205.00
+GBRRT-EB: ✅ | Time: 0.47s | Path Cost: 188.00
+BBoE: ✅ | Time: 0.13s | Path Cost: 197.00
+Db-RRT-F: ✅ | Time: 0.34s | Path Cost: 185.00
+Db-RRT-C: ✅ | Time: 0.27s | Path Cost: 239.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 25/50 | Seed: 24
+=======================================================
+RRT-MC: ✅ | Time: 0.57s | Path Cost: 196.00
+RRT-EB: ✅ | Time: 0.66s | Path Cost: 176.00
+SST-MC: ✅ | Time: 0.91s | Path Cost: 192.00
+SST-EB: ✅ | Time: 0.75s | Path Cost: 172.00
+GBRRT-MC: ✅ | Time: 0.92s | Path Cost: 234.00
+GBRRT-EB: ✅ | Time: 0.39s | Path Cost: 169.00
+BBoE: ✅ | Time: 0.50s | Path Cost: 222.00
+Db-RRT-F: ✅ | Time: 0.37s | Path Cost: 201.00
+Db-RRT-C: ✅ | Time: 0.42s | Path Cost: 228.00
+BoE: ✅ | Time: 4.64s | Path Cost: 140.70
+
+=======================================================
+Trial 26/50 | Seed: 25
+=======================================================
+RRT-MC: ✅ | Time: 0.74s | Path Cost: 172.00
+RRT-EB: ✅ | Time: 1.28s | Path Cost: 197.00
+SST-MC: ✅ | Time: 0.77s | Path Cost: 188.00
+SST-EB: ✅ | Time: 1.23s | Path Cost: 162.00
+GBRRT-MC: ✅ | Time: 0.81s | Path Cost: 199.00
+GBRRT-EB: ✅ | Time: 0.75s | Path Cost: 192.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 210.00
+Db-RRT-F: ✅ | Time: 1.37s | Path Cost: 222.00
+Db-RRT-C: ✅ | Time: 0.24s | Path Cost: 222.00
+BoE: ✅ | Time: 4.66s | Path Cost: 139.50
+
+=======================================================
+Trial 27/50 | Seed: 26
+=======================================================
+RRT-MC: ✅ | Time: 1.13s | Path Cost: 197.00
+RRT-EB: ✅ | Time: 0.46s | Path Cost: 173.00
+SST-MC: ✅ | Time: 0.80s | Path Cost: 167.00
+SST-EB: ✅ | Time: 0.34s | Path Cost: 163.00
+GBRRT-MC: ✅ | Time: 0.30s | Path Cost: 182.00
+GBRRT-EB: ✅ | Time: 0.34s | Path Cost: 202.00
+BBoE: ✅ | Time: 0.21s | Path Cost: 201.00
+Db-RRT-F: ✅ | Time: 0.43s | Path Cost: 204.00
+Db-RRT-C: ✅ | Time: 0.83s | Path Cost: 207.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 28/50 | Seed: 27
+=======================================================
+RRT-MC: ✅ | Time: 1.03s | Path Cost: 198.00
+RRT-EB: ✅ | Time: 0.34s | Path Cost: 169.00
+SST-MC: ✅ | Time: 1.19s | Path Cost: 177.80
+SST-EB: ✅ | Time: 0.33s | Path Cost: 164.00
+GBRRT-MC: ✅ | Time: 0.29s | Path Cost: 203.00
+GBRRT-EB: ✅ | Time: 1.08s | Path Cost: 235.00
+BBoE: ✅ | Time: 0.23s | Path Cost: 220.00
+Db-RRT-F: ✅ | Time: 0.20s | Path Cost: 205.00
+Db-RRT-C: ✅ | Time: 0.65s | Path Cost: 257.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 29/50 | Seed: 28
+=======================================================
+RRT-MC: ✅ | Time: 0.48s | Path Cost: 185.00
+RRT-EB: ✅ | Time: 1.37s | Path Cost: 184.00
+SST-MC: ✅ | Time: 0.66s | Path Cost: 185.00
+SST-EB: ✅ | Time: 0.88s | Path Cost: 177.00
+GBRRT-MC: ✅ | Time: 0.44s | Path Cost: 196.00
+GBRRT-EB: ✅ | Time: 0.95s | Path Cost: 216.00
+BBoE: ✅ | Time: 0.27s | Path Cost: 241.00
+Db-RRT-F: ✅ | Time: 4.13s | Path Cost: 230.00
+Db-RRT-C: ✅ | Time: 0.45s | Path Cost: 264.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 30/50 | Seed: 29
+=======================================================
+RRT-MC: ✅ | Time: 0.53s | Path Cost: 188.00
+RRT-EB: ✅ | Time: 0.66s | Path Cost: 204.00
+SST-MC: ✅ | Time: 0.26s | Path Cost: 168.00
+SST-EB: ✅ | Time: 0.43s | Path Cost: 181.00
+GBRRT-MC: ✅ | Time: 0.38s | Path Cost: 191.00
+GBRRT-EB: ✅ | Time: 0.76s | Path Cost: 194.00
+BBoE: ✅ | Time: 0.23s | Path Cost: 207.00
+Db-RRT-F: ✅ | Time: 2.77s | Path Cost: 199.00
+Db-RRT-C: ✅ | Time: 1.55s | Path Cost: 261.00
+BoE: ✅ | Time: 4.72s | Path Cost: 140.80
+
+=======================================================
+Trial 31/50 | Seed: 30
+=======================================================
+RRT-MC: ✅ | Time: 0.51s | Path Cost: 176.00
+RRT-EB: ✅ | Time: 0.61s | Path Cost: 166.00
+SST-MC: ✅ | Time: 0.64s | Path Cost: 163.00
+SST-EB: ✅ | Time: 0.73s | Path Cost: 167.00
+GBRRT-MC: ✅ | Time: 0.50s | Path Cost: 176.00
+GBRRT-EB: ✅ | Time: 0.26s | Path Cost: 188.00
+BBoE: ✅ | Time: 0.22s | Path Cost: 197.00
+Db-RRT-F: ✅ | Time: 0.24s | Path Cost: 186.00
+Db-RRT-C: ✅ | Time: 0.84s | Path Cost: 247.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 32/50 | Seed: 31
+=======================================================
+RRT-MC: ✅ | Time: 0.50s | Path Cost: 181.00
+RRT-EB: ✅ | Time: 0.75s | Path Cost: 186.00
+SST-MC: ✅ | Time: 0.48s | Path Cost: 171.00
+SST-EB: ✅ | Time: 0.90s | Path Cost: 191.00
+GBRRT-MC: ✅ | Time: 0.60s | Path Cost: 190.00
+GBRRT-EB: ✅ | Time: 0.33s | Path Cost: 189.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 207.00
+Db-RRT-F: ✅ | Time: 0.46s | Path Cost: 192.00
+Db-RRT-C: ✅ | Time: 0.23s | Path Cost: 230.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 33/50 | Seed: 32
+=======================================================
+RRT-MC: ✅ | Time: 0.39s | Path Cost: 178.50
+RRT-EB: ✅ | Time: 0.83s | Path Cost: 186.00
+SST-MC: ✅ | Time: 0.44s | Path Cost: 170.40
+SST-EB: ✅ | Time: 0.88s | Path Cost: 183.00
+GBRRT-MC: ✅ | Time: 0.79s | Path Cost: 197.00
+GBRRT-EB: ✅ | Time: 1.00s | Path Cost: 213.00
+BBoE: ✅ | Time: 0.19s | Path Cost: 188.00
+Db-RRT-F: ✅ | Time: 0.15s | Path Cost: 192.00
+Db-RRT-C: ✅ | Time: 0.34s | Path Cost: 218.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 34/50 | Seed: 33
+=======================================================
+RRT-MC: ✅ | Time: 0.47s | Path Cost: 174.00
+RRT-EB: ✅ | Time: 0.81s | Path Cost: 173.00
+SST-MC: ✅ | Time: 0.80s | Path Cost: 170.50
+SST-EB: ✅ | Time: 0.75s | Path Cost: 180.00
+GBRRT-MC: ✅ | Time: 0.35s | Path Cost: 165.00
+GBRRT-EB: ✅ | Time: 0.38s | Path Cost: 187.00
+BBoE: ✅ | Time: 0.43s | Path Cost: 190.00
+Db-RRT-F: ✅ | Time: 0.68s | Path Cost: 230.00
+Db-RRT-C: ✅ | Time: 0.51s | Path Cost: 229.00
+BoE: ✅ | Time: 4.54s | Path Cost: 138.40
+
+=======================================================
+Trial 35/50 | Seed: 34
+=======================================================
+RRT-MC: ✅ | Time: 0.87s | Path Cost: 175.00
+RRT-EB: ✅ | Time: 0.53s | Path Cost: 174.00
+SST-MC: ✅ | Time: 0.89s | Path Cost: 165.00
+SST-EB: ✅ | Time: 0.56s | Path Cost: 169.00
+GBRRT-MC: ✅ | Time: 0.69s | Path Cost: 183.00
+GBRRT-EB: ✅ | Time: 1.58s | Path Cost: 190.00
+BBoE: ✅ | Time: 0.39s | Path Cost: 184.00
+Db-RRT-F: ✅ | Time: 0.37s | Path Cost: 188.00
+Db-RRT-C: ✅ | Time: 0.27s | Path Cost: 251.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 36/50 | Seed: 35
+=======================================================
+RRT-MC: ✅ | Time: 1.44s | Path Cost: 179.50
+RRT-EB: ✅ | Time: 1.08s | Path Cost: 185.00
+SST-MC: ✅ | Time: 1.13s | Path Cost: 186.00
+SST-EB: ✅ | Time: 0.97s | Path Cost: 165.00
+GBRRT-MC: ✅ | Time: 0.22s | Path Cost: 177.00
+GBRRT-EB: ✅ | Time: 0.39s | Path Cost: 171.00
+BBoE: ✅ | Time: 0.18s | Path Cost: 203.00
+Db-RRT-F: ✅ | Time: 0.19s | Path Cost: 185.00
+Db-RRT-C: ✅ | Time: 0.30s | Path Cost: 239.00
+BoE: ✅ | Time: 4.25s | Path Cost: 140.80
+
+=======================================================
+Trial 37/50 | Seed: 36
+=======================================================
+RRT-MC: ✅ | Time: 0.35s | Path Cost: 198.00
+RRT-EB: ✅ | Time: 4.21s | Path Cost: 176.00
+SST-MC: ✅ | Time: 0.44s | Path Cost: 189.00
+SST-EB: ✅ | Time: 1.70s | Path Cost: 173.00
+GBRRT-MC: ✅ | Time: 0.45s | Path Cost: 188.00
+GBRRT-EB: ✅ | Time: 0.45s | Path Cost: 198.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 201.00
+Db-RRT-F: ✅ | Time: 0.20s | Path Cost: 223.00
+Db-RRT-C: ✅ | Time: 0.73s | Path Cost: 283.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 38/50 | Seed: 37
+=======================================================
+RRT-MC: ✅ | Time: 0.78s | Path Cost: 173.00
+RRT-EB: ✅ | Time: 0.67s | Path Cost: 187.00
+SST-MC: ✅ | Time: 1.13s | Path Cost: 169.00
+SST-EB: ✅ | Time: 0.62s | Path Cost: 164.00
+GBRRT-MC: ✅ | Time: 0.50s | Path Cost: 201.00
+GBRRT-EB: ✅ | Time: 0.49s | Path Cost: 185.00
+BBoE: ✅ | Time: 0.19s | Path Cost: 214.00
+Db-RRT-F: ✅ | Time: 1.47s | Path Cost: 206.00
+Db-RRT-C: ✅ | Time: 0.20s | Path Cost: 211.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 39/50 | Seed: 38
+=======================================================
+RRT-MC: ✅ | Time: 0.81s | Path Cost: 190.00
+RRT-EB: ✅ | Time: 0.48s | Path Cost: 180.00
+SST-MC: ✅ | Time: 1.64s | Path Cost: 193.00
+SST-EB: ✅ | Time: 0.77s | Path Cost: 179.00
+GBRRT-MC: ✅ | Time: 0.59s | Path Cost: 201.00
+GBRRT-EB: ✅ | Time: 0.42s | Path Cost: 188.00
+BBoE: ✅ | Time: 0.16s | Path Cost: 194.00
+Db-RRT-F: ✅ | Time: 0.73s | Path Cost: 201.00
+Db-RRT-C: ✅ | Time: 0.69s | Path Cost: 251.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 40/50 | Seed: 39
+=======================================================
+RRT-MC: ✅ | Time: 0.40s | Path Cost: 167.00
+RRT-EB: ✅ | Time: 0.93s | Path Cost: 181.00
+SST-MC: ✅ | Time: 0.57s | Path Cost: 168.00
+SST-EB: ✅ | Time: 1.71s | Path Cost: 176.00
+GBRRT-MC: ✅ | Time: 0.49s | Path Cost: 191.00
+GBRRT-EB: ✅ | Time: 0.68s | Path Cost: 186.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 196.00
+Db-RRT-F: ✅ | Time: 0.50s | Path Cost: 227.00
+Db-RRT-C: ✅ | Time: 0.30s | Path Cost: 239.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 41/50 | Seed: 40
+=======================================================
+RRT-MC: ✅ | Time: 0.72s | Path Cost: 187.00
+RRT-EB: ✅ | Time: 0.59s | Path Cost: 179.50
+SST-MC: ✅ | Time: 1.87s | Path Cost: 169.00
+SST-EB: ✅ | Time: 0.50s | Path Cost: 182.00
+GBRRT-MC: ✅ | Time: 0.30s | Path Cost: 201.00
+GBRRT-EB: ✅ | Time: 0.66s | Path Cost: 192.00
+BBoE: ✅ | Time: 0.35s | Path Cost: 176.00
+Db-RRT-F: ✅ | Time: 0.36s | Path Cost: 224.00
+Db-RRT-C: ✅ | Time: 0.38s | Path Cost: 238.00
+BoE: ❌ | Time: 5.00s | Path Cost: inf
+
+=======================================================
+Trial 42/50 | Seed: 41
+=======================================================
+RRT-MC: ✅ | Time: 1.29s | Path Cost: 195.00
+RRT-EB: ✅ | Time: 0.51s | Path Cost: 187.00
+SST-MC: ✅ | Time: 0.75s | Path Cost: 184.00
+SST-EB: ✅ | Time: 0.83s | Path Cost: 190.00
+GBRRT-MC: ✅ | Time: 0.91s | Path Cost: 204.00
+GBRRT-EB: ✅ | Time: 0.56s | Path Cost: 189.00
+BBoE: ✅ | Time: 0.22s | Path Cost: 222.00
+Db-RRT-F: ✅ | Time: 0.69s | Path Cost: 231.00
+Db-RRT-C: ✅ | Time: 0.64s | Path Cost: 222.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 43/50 | Seed: 42
+=======================================================
+RRT-MC: ✅ | Time: 0.59s | Path Cost: 167.00
+RRT-EB: ✅ | Time: 1.07s | Path Cost: 215.00
+SST-MC: ✅ | Time: 1.32s | Path Cost: 161.40
+SST-EB: ✅ | Time: 0.64s | Path Cost: 197.00
+GBRRT-MC: ✅ | Time: 0.96s | Path Cost: 190.00
+GBRRT-EB: ✅ | Time: 0.40s | Path Cost: 185.00
+BBoE: ✅ | Time: 0.25s | Path Cost: 173.00
+Db-RRT-F: ✅ | Time: 1.18s | Path Cost: 278.00
+Db-RRT-C: ✅ | Time: 0.56s | Path Cost: 224.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 44/50 | Seed: 43
+=======================================================
+RRT-MC: ✅ | Time: 0.59s | Path Cost: 170.00
+RRT-EB: ✅ | Time: 0.52s | Path Cost: 173.50
+SST-MC: ✅ | Time: 1.71s | Path Cost: 161.00
+SST-EB: ✅ | Time: 0.63s | Path Cost: 185.00
+GBRRT-MC: ✅ | Time: 0.49s | Path Cost: 208.00
+GBRRT-EB: ✅ | Time: 0.27s | Path Cost: 169.00
+BBoE: ✅ | Time: 0.24s | Path Cost: 215.00
+Db-RRT-F: ✅ | Time: 0.42s | Path Cost: 205.00
+Db-RRT-C: ✅ | Time: 0.23s | Path Cost: 225.00
+BoE: ❌ | Time: 5.02s | Path Cost: inf
+
+=======================================================
+Trial 45/50 | Seed: 44
+=======================================================
+RRT-MC: ✅ | Time: 0.50s | Path Cost: 178.00
+RRT-EB: ✅ | Time: 0.46s | Path Cost: 194.00
+SST-MC: ✅ | Time: 0.65s | Path Cost: 164.00
+SST-EB: ✅ | Time: 3.08s | Path Cost: 187.00
+GBRRT-MC: ✅ | Time: 0.48s | Path Cost: 202.00
+GBRRT-EB: ✅ | Time: 0.26s | Path Cost: 171.00
+BBoE: ✅ | Time: 0.27s | Path Cost: 194.00
+Db-RRT-F: ✅ | Time: 0.97s | Path Cost: 218.00
+Db-RRT-C: ✅ | Time: 0.40s | Path Cost: 217.00
+BoE: ✅ | Time: 4.89s | Path Cost: 141.50
+
+=======================================================
+Trial 46/50 | Seed: 45
+=======================================================
+RRT-MC: ✅ | Time: 0.42s | Path Cost: 172.00
+RRT-EB: ✅ | Time: 0.52s | Path Cost: 182.00
+SST-MC: ✅ | Time: 0.58s | Path Cost: 171.00
+SST-EB: ✅ | Time: 0.74s | Path Cost: 167.00
+GBRRT-MC: ✅ | Time: 1.45s | Path Cost: 199.00
+GBRRT-EB: ✅ | Time: 0.44s | Path Cost: 163.00
+BBoE: ✅ | Time: 0.15s | Path Cost: 213.00
+Db-RRT-F: ✅ | Time: 1.42s | Path Cost: 242.00
+Db-RRT-C: ✅ | Time: 0.22s | Path Cost: 223.00
+BoE: ✅ | Time: 4.36s | Path Cost: 138.70
+
+=======================================================
+Trial 47/50 | Seed: 46
+=======================================================
+RRT-MC: ✅ | Time: 0.40s | Path Cost: 174.00
+RRT-EB: ✅ | Time: 0.40s | Path Cost: 168.00
+SST-MC: ✅ | Time: 0.42s | Path Cost: 172.00
+SST-EB: ✅ | Time: 0.67s | Path Cost: 168.00
+GBRRT-MC: ✅ | Time: 0.34s | Path Cost: 180.00
+GBRRT-EB: ✅ | Time: 0.67s | Path Cost: 212.00
+BBoE: ✅ | Time: 0.27s | Path Cost: 205.00
+Db-RRT-F: ✅ | Time: 1.53s | Path Cost: 194.00
+Db-RRT-C: ✅ | Time: 0.35s | Path Cost: 206.00
+BoE: ✅ | Time: 4.66s | Path Cost: 142.10
+
+=======================================================
+Trial 48/50 | Seed: 47
+=======================================================
+RRT-MC: ✅ | Time: 0.63s | Path Cost: 183.00
+RRT-EB: ✅ | Time: 1.51s | Path Cost: 200.00
+SST-MC: ✅ | Time: 1.85s | Path Cost: 181.00
+SST-EB: ✅ | Time: 1.02s | Path Cost: 184.00
+GBRRT-MC: ✅ | Time: 0.98s | Path Cost: 195.00
+GBRRT-EB: ✅ | Time: 0.64s | Path Cost: 205.00
+BBoE: ✅ | Time: 0.27s | Path Cost: 191.00
+Db-RRT-F: ✅ | Time: 0.28s | Path Cost: 196.00
+Db-RRT-C: ✅ | Time: 0.37s | Path Cost: 228.00
+BoE: ❌ | Time: 5.01s | Path Cost: inf
+
+=======================================================
+Trial 49/50 | Seed: 48
+=======================================================
+RRT-MC: ✅ | Time: 1.30s | Path Cost: 211.00
+RRT-EB: ✅ | Time: 0.68s | Path Cost: 181.00
+SST-MC: ✅ | Time: 1.10s | Path Cost: 187.00
+SST-EB: ✅ | Time: 0.59s | Path Cost: 175.00
+GBRRT-MC: ✅ | Time: 0.21s | Path Cost: 195.00
+GBRRT-EB: ✅ | Time: 0.20s | Path Cost: 199.00
+BBoE: ✅ | Time: 0.20s | Path Cost: 188.00
+Db-RRT-F: ✅ | Time: 0.63s | Path Cost: 205.00
+Db-RRT-C: ✅ | Time: 0.35s | Path Cost: 273.00
+BoE: ✅ | Time: 4.43s | Path Cost: 144.60
+
+=======================================================
+Trial 50/50 | Seed: 49
+=======================================================
+RRT-MC: ✅ | Time: 0.26s | Path Cost: 165.00
+RRT-EB: ✅ | Time: 0.54s | Path Cost: 196.00
+SST-MC: ✅ | Time: 0.33s | Path Cost: 165.00
+SST-EB: ✅ | Time: 0.56s | Path Cost: 194.00
+GBRRT-MC: ✅ | Time: 0.39s | Path Cost: 214.00
+GBRRT-EB: ✅ | Time: 0.70s | Path Cost: 185.00
+BBoE: ✅ | Time: 0.12s | Path Cost: 216.00
+Db-RRT-F: ✅ | Time: 0.38s | Path Cost: 251.00
+Db-RRT-C: ✅ | Time: 0.24s | Path Cost: 261.00
+BoE: ✅ | Time: 4.07s | Path Cost: 141.40
+
+
+=======================================================
+BENCHMARK RESULTS (Averages over successful runs)
+=======================================================
+[RRT-MC]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.665 s
+  Avg Path Cost: 182.148
+
+[RRT-EB]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.715 s
+  Avg Path Cost: 183.260
+
+[SST-MC]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.832 s
+  Avg Path Cost: 177.722
+
+[SST-EB]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.863 s
+  Avg Path Cost: 176.200
+
+[GBRRT-MC]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.516 s
+  Avg Path Cost: 192.780
+
+[GBRRT-EB]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.617 s
+  Avg Path Cost: 195.040
+
+[BBoE]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.233 s
+  Avg Path Cost: 199.960
+
+[Db-RRT-F]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.739 s
+  Avg Path Cost: 211.706
+
+[Db-RRT-C]
+  Success Rate : 100.0% (50/50)
+  Avg Planning : 0.466 s
+  Avg Path Cost: 235.920
+
+[BoE]
+  Success Rate : 48.0% (24/50)
+  Avg Planning : 4.469 s
+  Avg Path Cost: 141.188
+

@@ -1,0 +1,2452 @@
+
+======================================================================
+  DIFFICULTY: Easy
+  Circular: 4  |  Rectangular: 3
+======================================================================
+
+  Trial 1/50 | env_seed=15795 | udf_seed=15795 | Obstacles: 7
+            RRT-MC: ✅ | 2.24s | Cost: 137.0   
+            RRT-EB: ✅ | 0.86s | Cost: 135.0   
+            SST-MC: ✅ | 1.38s | Cost: 132.0   
+            SST-EB: ✅ | 0.11s | Cost: 135.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 133.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 124.0   
+              BBoE: ✅ | 1.88s | Cost: 129.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 133.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 167.0   
+               BoE: ✅ | 0.24s | Cost: 100.40000000000003
+
+  Trial 2/50 | env_seed=860 | udf_seed=860 | Obstacles: 7
+            RRT-MC: ✅ | 0.16s | Cost: 138.0   
+            RRT-EB: ✅ | 0.24s | Cost: 147.0   
+            SST-MC: ✅ | 0.19s | Cost: 138.0   
+            SST-EB: ✅ | 0.18s | Cost: 142.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 118.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 147.0   
+              BBoE: ✅ | 0.08s | Cost: 156.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 146.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 190.0   
+               BoE: ✅ | 0.19s | Cost: 102.40000000000003
+
+  Trial 3/50 | env_seed=76820 | udf_seed=76820 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 154.0   
+            RRT-EB: ✅ | 0.15s | Cost: 122.0   
+            SST-MC: ✅ | 0.18s | Cost: 154.0   
+            SST-EB: ✅ | 0.16s | Cost: 122.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 149.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 140.0   
+              BBoE: ✅ | 0.06s | Cost: 168.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 135.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 167.0   
+               BoE: ✅ | 0.30s | Cost: 101.00000000000006
+
+  Trial 4/50 | env_seed=54886 | udf_seed=54886 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 138.0   
+            RRT-EB: ✅ | 0.13s | Cost: 153.0   
+            SST-MC: ✅ | 0.11s | Cost: 138.0   
+            SST-EB: ✅ | 0.25s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 127.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 152.0   
+              BBoE: ✅ | 0.08s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 117.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 192.0   
+               BoE: ✅ | 0.17s | Cost: 100.70000000000005
+
+  Trial 5/50 | env_seed=6265 | udf_seed=6265 | Obstacles: 7
+            RRT-MC: ✅ | 0.10s | Cost: 136.0   
+            RRT-EB: ✅ | 0.08s | Cost: 128.0   
+            SST-MC: ✅ | 0.12s | Cost: 136.0   
+            SST-EB: ✅ | 0.09s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 135.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 131.0   
+              BBoE: ✅ | 0.07s | Cost: 188.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 151.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 155.0   
+               BoE: ✅ | 0.26s | Cost: 99.70000000000005
+
+  Trial 6/50 | env_seed=82386 | udf_seed=82386 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 135.0   
+            RRT-EB: ✅ | 0.10s | Cost: 131.0   
+            SST-MC: ✅ | 0.10s | Cost: 135.0   
+            SST-EB: ✅ | 0.10s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 135.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 141.0   
+              BBoE: ✅ | 0.05s | Cost: 145.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 150.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 176.0   
+               BoE: ✅ | 0.18s | Cost: 99.4    
+
+  Trial 7/50 | env_seed=37194 | udf_seed=37194 | Obstacles: 7
+            RRT-MC: ✅ | 0.12s | Cost: 130.0   
+            RRT-EB: ✅ | 0.13s | Cost: 133.0   
+            SST-MC: ✅ | 0.14s | Cost: 130.0   
+            SST-EB: ✅ | 0.13s | Cost: 127.0   
+          GBRRT-MC: ✅ | 0.07s | Cost: 119.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 149.0   
+              BBoE: ✅ | 0.05s | Cost: 141.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 145.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 167.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 8/50 | env_seed=87498 | udf_seed=87498 | Obstacles: 7
+            RRT-MC: ✅ | 0.27s | Cost: 156.0   
+            RRT-EB: ✅ | 0.16s | Cost: 118.0   
+            SST-MC: ✅ | 0.23s | Cost: 172.0   
+            SST-EB: ✅ | 0.17s | Cost: 118.0   
+          GBRRT-MC: ✅ | 0.06s | Cost: 119.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 131.0   
+              BBoE: ✅ | 0.06s | Cost: 132.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 125.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 176.0   
+               BoE: ✅ | 0.23s | Cost: 97.70000000000005
+
+  Trial 9/50 | env_seed=44131 | udf_seed=44131 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 130.0   
+            RRT-EB: ✅ | 0.15s | Cost: 127.0   
+            SST-MC: ✅ | 0.10s | Cost: 130.0   
+            SST-EB: ✅ | 0.14s | Cost: 127.0   
+          GBRRT-MC: ✅ | 0.13s | Cost: 131.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 135.0   
+              BBoE: ✅ | 0.07s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 176.0   
+               BoE: ✅ | 0.18s | Cost: 100.0   
+
+  Trial 10/50 | env_seed=60263 | udf_seed=60263 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 129.0   
+            RRT-EB: ✅ | 0.09s | Cost: 124.0   
+            SST-MC: ✅ | 0.17s | Cost: 129.0   
+            SST-EB: ✅ | 0.10s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 158.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 119.0   
+              BBoE: ✅ | 0.04s | Cost: 121.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 123.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 140.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 11/50 | env_seed=15795 | udf_seed=16023 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 120.0   
+            RRT-EB: ✅ | 0.08s | Cost: 120.0   
+            SST-MC: ✅ | 0.16s | Cost: 120.0   
+            SST-EB: ✅ | 0.08s | Cost: 115.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 148.0   
+              BBoE: ✅ | 0.07s | Cost: 132.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 134.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 179.0   
+               BoE: ✅ | 0.18s | Cost: 100.40000000000003
+
+  Trial 12/50 | env_seed=860 | udf_seed=41090 | Obstacles: 7
+            RRT-MC: ✅ | 0.08s | Cost: 138.0   
+            RRT-EB: ✅ | 0.07s | Cost: 119.0   
+            SST-MC: ✅ | 0.08s | Cost: 138.0   
+            SST-EB: ✅ | 0.08s | Cost: 119.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 153.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 127.0   
+              BBoE: ✅ | 0.06s | Cost: 152.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 125.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 156.0   
+               BoE: ✅ | 0.19s | Cost: 102.40000000000003
+
+  Trial 13/50 | env_seed=76820 | udf_seed=67221 | Obstacles: 7
+            RRT-MC: ✅ | 0.10s | Cost: 126.0   
+            RRT-EB: ✅ | 0.13s | Cost: 115.0   
+            SST-MC: ✅ | 0.13s | Cost: 128.0   
+            SST-EB: ✅ | 0.13s | Cost: 115.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 134.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 130.50000000000006
+              BBoE: ✅ | 0.06s | Cost: 164.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 179.0   
+               BoE: ✅ | 0.32s | Cost: 101.00000000000006
+
+  Trial 14/50 | env_seed=54886 | udf_seed=64820 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 130.0   
+            RRT-EB: ✅ | 0.07s | Cost: 131.0   
+            SST-MC: ✅ | 0.12s | Cost: 130.0   
+            SST-EB: ✅ | 0.08s | Cost: 131.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 140.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 143.0   
+              BBoE: ✅ | 0.06s | Cost: 159.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 134.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 166.0   
+               BoE: ✅ | 0.17s | Cost: 100.70000000000005
+
+  Trial 15/50 | env_seed=6265 | udf_seed=769 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 143.0   
+            RRT-EB: ✅ | 0.12s | Cost: 150.0   
+            SST-MC: ✅ | 0.17s | Cost: 143.0   
+            SST-EB: ✅ | 0.13s | Cost: 150.0   
+          GBRRT-MC: ✅ | 0.07s | Cost: 128.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 145.0   
+              BBoE: ✅ | 0.06s | Cost: 141.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 138.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 182.0   
+               BoE: ✅ | 0.31s | Cost: 99.70000000000005
+
+  Trial 16/50 | env_seed=82386 | udf_seed=59735 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 146.0   
+            RRT-EB: ✅ | 0.15s | Cost: 119.0   
+            SST-MC: ✅ | 0.19s | Cost: 146.0   
+            SST-EB: ✅ | 0.15s | Cost: 119.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 137.0   
+              BBoE: ✅ | 0.07s | Cost: 141.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 135.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 151.0   
+               BoE: ✅ | 0.18s | Cost: 99.4    
+
+  Trial 17/50 | env_seed=37194 | udf_seed=62955 | Obstacles: 7
+            RRT-MC: ✅ | 0.06s | Cost: 136.0   
+            RRT-EB: ✅ | 0.08s | Cost: 125.0   
+            SST-MC: ✅ | 0.08s | Cost: 136.0   
+            SST-EB: ✅ | 0.09s | Cost: 125.0   
+          GBRRT-MC: ✅ | 0.06s | Cost: 130.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 117.0   
+              BBoE: ✅ | 0.05s | Cost: 139.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 142.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 169.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 18/50 | env_seed=87498 | udf_seed=64925 | Obstacles: 7
+            RRT-MC: ✅ | 0.20s | Cost: 130.0   
+            RRT-EB: ✅ | 0.10s | Cost: 128.0   
+            SST-MC: ✅ | 0.26s | Cost: 130.0   
+            SST-EB: ✅ | 0.09s | Cost: 128.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 129.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 128.0   
+              BBoE: ✅ | 0.07s | Cost: 150.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 130.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 172.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 19/50 | env_seed=44131 | udf_seed=67969 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 129.0   
+            RRT-EB: ✅ | 0.09s | Cost: 121.0   
+            SST-MC: ✅ | 0.15s | Cost: 129.0   
+            SST-EB: ✅ | 0.11s | Cost: 121.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 118.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 122.0   
+              BBoE: ✅ | 0.04s | Cost: 138.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 121.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 167.0   
+               BoE: ✅ | 0.19s | Cost: 100.0   
+
+  Trial 20/50 | env_seed=60263 | udf_seed=5311 | Obstacles: 7
+            RRT-MC: ✅ | 0.07s | Cost: 132.0   
+            RRT-EB: ✅ | 0.09s | Cost: 124.0   
+            SST-MC: ✅ | 0.08s | Cost: 132.0   
+            SST-EB: ✅ | 0.10s | Cost: 124.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 129.0   
+              BBoE: ✅ | 0.05s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 182.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 21/50 | env_seed=15795 | udf_seed=83104 | Obstacles: 7
+            RRT-MC: ✅ | 0.08s | Cost: 120.0   
+            RRT-EB: ✅ | 0.10s | Cost: 123.0   
+            SST-MC: ✅ | 0.09s | Cost: 120.0   
+            SST-EB: ✅ | 0.10s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 121.0   
+          GBRRT-EB: ✅ | 0.06s | Cost: 123.0   
+              BBoE: ✅ | 0.06s | Cost: 133.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 166.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 177.0   
+               BoE: ✅ | 0.19s | Cost: 100.40000000000003
+
+  Trial 22/50 | env_seed=860 | udf_seed=53707 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 148.0   
+            RRT-EB: ✅ | 0.11s | Cost: 142.0   
+            SST-MC: ✅ | 0.16s | Cost: 148.0   
+            SST-EB: ✅ | 0.12s | Cost: 142.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 149.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 131.0   
+              BBoE: ✅ | 0.05s | Cost: 132.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 152.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 144.0   
+               BoE: ✅ | 0.19s | Cost: 102.40000000000003
+
+  Trial 23/50 | env_seed=76820 | udf_seed=85305 | Obstacles: 7
+            RRT-MC: ✅ | 0.12s | Cost: 141.0   
+            RRT-EB: ✅ | 0.09s | Cost: 130.0   
+            SST-MC: ✅ | 0.14s | Cost: 141.0   
+            SST-EB: ✅ | 0.10s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 145.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 122.0   
+              BBoE: ✅ | 0.07s | Cost: 145.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 171.0   
+          Db-RRT-C: ✅ | 0.08s | Cost: 212.0   
+               BoE: ✅ | 0.36s | Cost: 101.00000000000006
+
+  Trial 24/50 | env_seed=54886 | udf_seed=28693 | Obstacles: 7
+            RRT-MC: ✅ | 0.20s | Cost: 149.0   
+            RRT-EB: ✅ | 0.12s | Cost: 134.0   
+            SST-MC: ✅ | 0.24s | Cost: 148.0   
+            SST-EB: ✅ | 0.13s | Cost: 134.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 151.0   
+          GBRRT-EB: ✅ | 0.13s | Cost: 168.0   
+              BBoE: ✅ | 0.06s | Cost: 140.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 141.0   
+               BoE: ✅ | 0.18s | Cost: 100.70000000000005
+
+  Trial 25/50 | env_seed=6265 | udf_seed=71932 | Obstacles: 7
+            RRT-MC: ✅ | 0.10s | Cost: 137.0   
+            RRT-EB: ✅ | 0.09s | Cost: 141.0   
+            SST-MC: ✅ | 0.13s | Cost: 135.0   
+            SST-EB: ✅ | 0.10s | Cost: 141.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 141.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 140.0   
+              BBoE: ✅ | 0.05s | Cost: 137.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 141.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 169.0   
+               BoE: ✅ | 0.26s | Cost: 99.70000000000005
+
+  Trial 26/50 | env_seed=82386 | udf_seed=93016 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 121.0   
+            RRT-EB: ✅ | 0.13s | Cost: 152.0   
+            SST-MC: ✅ | 0.17s | Cost: 121.0   
+            SST-EB: ✅ | 0.14s | Cost: 152.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 144.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 131.0   
+              BBoE: ✅ | 0.08s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 144.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 137.0   
+               BoE: ✅ | 0.18s | Cost: 99.4    
+
+  Trial 27/50 | env_seed=37194 | udf_seed=25658 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 125.0   
+            RRT-EB: ✅ | 0.12s | Cost: 131.0   
+            SST-MC: ✅ | 0.17s | Cost: 122.0   
+            SST-EB: ✅ | 0.12s | Cost: 124.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 140.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 133.0   
+              BBoE: ✅ | 0.07s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 153.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 202.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 28/50 | env_seed=87498 | udf_seed=84478 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 136.0   
+            RRT-EB: ✅ | 0.06s | Cost: 115.0   
+            SST-MC: ✅ | 0.15s | Cost: 136.0   
+            SST-EB: ✅ | 0.08s | Cost: 115.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 131.0   
+              BBoE: ✅ | 0.06s | Cost: 137.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 141.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 167.0   
+               BoE: ✅ | 0.19s | Cost: 97.70000000000005
+
+  Trial 29/50 | env_seed=44131 | udf_seed=18431 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 131.0   
+            RRT-EB: ✅ | 0.13s | Cost: 137.0   
+            SST-MC: ✅ | 0.17s | Cost: 145.0   
+            SST-EB: ✅ | 0.15s | Cost: 144.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 140.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 134.0   
+              BBoE: ✅ | 0.07s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 127.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 163.0   
+               BoE: ✅ | 0.19s | Cost: 100.0   
+
+  Trial 30/50 | env_seed=60263 | udf_seed=2747 | Obstacles: 7
+            RRT-MC: ✅ | 0.10s | Cost: 137.0   
+            RRT-EB: ✅ | 0.08s | Cost: 123.0   
+            SST-MC: ✅ | 0.13s | Cost: 137.0   
+            SST-EB: ✅ | 0.09s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.07s | Cost: 111.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 135.0   
+              BBoE: ✅ | 0.06s | Cost: 156.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 134.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 199.0   
+               BoE: ✅ | 0.22s | Cost: 97.70000000000005
+
+  Trial 31/50 | env_seed=15795 | udf_seed=59150 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 120.0   
+            RRT-EB: ✅ | 0.11s | Cost: 137.0   
+            SST-MC: ✅ | 0.11s | Cost: 120.0   
+            SST-EB: ✅ | 0.25s | Cost: 138.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 144.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 131.0   
+              BBoE: ✅ | 0.07s | Cost: 160.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 148.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 191.0   
+               BoE: ✅ | 0.18s | Cost: 100.40000000000003
+
+  Trial 32/50 | env_seed=860 | udf_seed=65725 | Obstacles: 7
+            RRT-MC: ✅ | 0.16s | Cost: 140.0   
+            RRT-EB: ✅ | 0.12s | Cost: 146.0   
+            SST-MC: ✅ | 0.20s | Cost: 140.0   
+            SST-EB: ✅ | 0.13s | Cost: 146.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 136.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 129.0   
+              BBoE: ✅ | 0.07s | Cost: 155.0   
+          Db-RRT-F: ✅ | 0.09s | Cost: 168.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 187.0   
+               BoE: ✅ | 0.20s | Cost: 102.40000000000003
+
+  Trial 33/50 | env_seed=76820 | udf_seed=84654 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 142.0   
+            RRT-EB: ✅ | 0.08s | Cost: 123.0   
+            SST-MC: ✅ | 0.16s | Cost: 142.0   
+            SST-EB: ✅ | 0.08s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 139.0   
+              BBoE: ✅ | 0.05s | Cost: 124.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 133.0   
+          Db-RRT-C: ✅ | 0.03s | Cost: 133.0   
+               BoE: ✅ | 0.31s | Cost: 102.0   
+
+  Trial 34/50 | env_seed=54886 | udf_seed=35773 | Obstacles: 7
+            RRT-MC: ✅ | 0.16s | Cost: 130.0   
+            RRT-EB: ✅ | 0.15s | Cost: 138.0   
+            SST-MC: ✅ | 0.19s | Cost: 130.0   
+            SST-EB: ✅ | 0.70s | Cost: 131.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 123.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 128.0   
+              BBoE: ✅ | 0.07s | Cost: 176.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 157.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 187.0   
+               BoE: ✅ | 0.18s | Cost: 100.70000000000005
+
+  Trial 35/50 | env_seed=6265 | udf_seed=67435 | Obstacles: 7
+            RRT-MC: ✅ | 0.17s | Cost: 122.0   
+            RRT-EB: ✅ | 0.10s | Cost: 132.0   
+            SST-MC: ✅ | 0.20s | Cost: 122.0   
+            SST-EB: ✅ | 0.11s | Cost: 132.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 120.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 118.0   
+              BBoE: ✅ | 0.06s | Cost: 138.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 162.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 167.0   
+               BoE: ✅ | 0.26s | Cost: 99.70000000000005
+
+  Trial 36/50 | env_seed=82386 | udf_seed=56886 | Obstacles: 7
+            RRT-MC: ✅ | 0.10s | Cost: 127.0   
+            RRT-EB: ✅ | 0.13s | Cost: 131.0   
+            SST-MC: ✅ | 0.13s | Cost: 127.0   
+            SST-EB: ✅ | 0.11s | Cost: 121.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 133.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 141.0   
+              BBoE: ✅ | 0.05s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 145.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 189.0   
+               BoE: ✅ | 0.18s | Cost: 99.4    
+
+  Trial 37/50 | env_seed=37194 | udf_seed=66803 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 122.0   
+            RRT-EB: ✅ | 0.07s | Cost: 134.0   
+            SST-MC: ✅ | 0.13s | Cost: 122.0   
+            SST-EB: ✅ | 0.07s | Cost: 134.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 122.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 125.0   
+              BBoE: ✅ | 0.08s | Cost: 162.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 111.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 171.0   
+               BoE: ✅ | 0.21s | Cost: 97.70000000000005
+
+  Trial 38/50 | env_seed=87498 | udf_seed=31551 | Obstacles: 7
+            RRT-MC: ✅ | 0.15s | Cost: 132.0   
+            RRT-EB: ✅ | 0.20s | Cost: 129.0   
+            SST-MC: ✅ | 0.20s | Cost: 132.0   
+            SST-EB: ✅ | 0.16s | Cost: 129.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 153.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 134.0   
+              BBoE: ✅ | 0.06s | Cost: 141.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 153.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 186.0   
+               BoE: ✅ | 0.17s | Cost: 97.70000000000005
+
+  Trial 39/50 | env_seed=44131 | udf_seed=11394 | Obstacles: 7
+            RRT-MC: ✅ | 0.16s | Cost: 126.0   
+            RRT-EB: ✅ | 0.11s | Cost: 117.0   
+            SST-MC: ✅ | 0.24s | Cost: 122.0   
+            SST-EB: ✅ | 0.10s | Cost: 120.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 124.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 134.0   
+              BBoE: ✅ | 0.08s | Cost: 147.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 137.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 226.0   
+               BoE: ✅ | 0.18s | Cost: 100.0   
+
+  Trial 40/50 | env_seed=60263 | udf_seed=69092 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 124.0   
+            RRT-EB: ✅ | 0.10s | Cost: 119.0   
+            SST-MC: ✅ | 0.11s | Cost: 124.0   
+            SST-EB: ✅ | 0.10s | Cost: 119.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 122.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 122.0   
+              BBoE: ✅ | 0.05s | Cost: 154.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 147.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 173.0   
+               BoE: ✅ | 0.18s | Cost: 97.70000000000005
+
+  Trial 41/50 | env_seed=15795 | udf_seed=3890 | Obstacles: 7
+            RRT-MC: ✅ | 0.08s | Cost: 121.0   
+            RRT-EB: ✅ | 0.11s | Cost: 135.0   
+            SST-MC: ✅ | 0.10s | Cost: 121.0   
+            SST-EB: ✅ | 0.13s | Cost: 135.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 126.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 143.0   
+              BBoE: ✅ | 0.08s | Cost: 166.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 125.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 179.0   
+               BoE: ✅ | 0.18s | Cost: 100.40000000000003
+
+  Trial 42/50 | env_seed=860 | udf_seed=41606 | Obstacles: 7
+            RRT-MC: ✅ | 0.13s | Cost: 147.0   
+            RRT-EB: ✅ | 0.07s | Cost: 115.0   
+            SST-MC: ✅ | 0.15s | Cost: 147.0   
+            SST-EB: ✅ | 0.07s | Cost: 115.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 127.0   
+              BBoE: ✅ | 0.05s | Cost: 149.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 138.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 209.0   
+               BoE: ✅ | 0.19s | Cost: 102.40000000000003
+
+  Trial 43/50 | env_seed=76820 | udf_seed=96276 | Obstacles: 7
+            RRT-MC: ✅ | 0.06s | Cost: 131.0   
+            RRT-EB: ✅ | 0.14s | Cost: 131.0   
+            SST-MC: ✅ | 0.07s | Cost: 131.0   
+            SST-EB: ✅ | 0.15s | Cost: 131.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 151.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 139.0   
+              BBoE: ✅ | 0.05s | Cost: 138.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 140.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 180.0   
+               BoE: ✅ | 0.31s | Cost: 101.00000000000006
+
+  Trial 44/50 | env_seed=54886 | udf_seed=80038 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 129.0   
+            RRT-EB: ✅ | 0.11s | Cost: 121.0   
+            SST-MC: ✅ | 0.18s | Cost: 134.0   
+            SST-EB: ✅ | 0.12s | Cost: 121.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 129.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 132.0   
+              BBoE: ✅ | 0.09s | Cost: 149.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 140.0   
+          Db-RRT-C: ✅ | 0.02s | Cost: 139.0   
+               BoE: ✅ | 0.19s | Cost: 100.70000000000005
+
+  Trial 45/50 | env_seed=6265 | udf_seed=87313 | Obstacles: 7
+            RRT-MC: ✅ | 0.20s | Cost: 135.0   
+            RRT-EB: ✅ | 0.14s | Cost: 136.0   
+            SST-MC: ✅ | 0.24s | Cost: 135.0   
+            SST-EB: ✅ | 0.15s | Cost: 136.0   
+          GBRRT-MC: ✅ | 0.06s | Cost: 125.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 134.0   
+              BBoE: ✅ | 0.06s | Cost: 139.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 146.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 232.0   
+               BoE: ✅ | 0.30s | Cost: 99.70000000000005
+
+  Trial 46/50 | env_seed=82386 | udf_seed=10627 | Obstacles: 7
+            RRT-MC: ✅ | 0.09s | Cost: 144.0   
+            RRT-EB: ✅ | 0.09s | Cost: 118.0   
+            SST-MC: ✅ | 0.12s | Cost: 139.0   
+            SST-EB: ✅ | 0.09s | Cost: 118.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 133.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 132.0   
+              BBoE: ✅ | 0.06s | Cost: 133.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 135.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 208.0   
+               BoE: ✅ | 0.19s | Cost: 99.4    
+
+  Trial 47/50 | env_seed=37194 | udf_seed=8792 | Obstacles: 7
+            RRT-MC: ✅ | 0.14s | Cost: 130.0   
+            RRT-EB: ✅ | 0.05s | Cost: 120.0   
+            SST-MC: ✅ | 0.18s | Cost: 130.0   
+            SST-EB: ✅ | 0.05s | Cost: 120.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 130.0   
+              BBoE: ✅ | 0.09s | Cost: 136.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 131.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 182.0   
+               BoE: ✅ | 0.19s | Cost: 97.70000000000005
+
+  Trial 48/50 | env_seed=87498 | udf_seed=73969 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 126.00000000000001
+            RRT-EB: ✅ | 0.06s | Cost: 121.0   
+            SST-MC: ✅ | 0.14s | Cost: 126.00000000000001
+            SST-EB: ✅ | 0.07s | Cost: 121.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 134.0   
+          GBRRT-EB: ✅ | 0.15s | Cost: 142.0   
+              BBoE: ✅ | 0.04s | Cost: 124.0   
+          Db-RRT-F: ✅ | 0.02s | Cost: 132.0   
+          Db-RRT-C: ✅ | 0.04s | Cost: 201.0   
+               BoE: ✅ | 0.19s | Cost: 97.70000000000005
+
+  Trial 49/50 | env_seed=44131 | udf_seed=43001 | Obstacles: 7
+            RRT-MC: ✅ | 0.11s | Cost: 133.0   
+            RRT-EB: ✅ | 0.12s | Cost: 133.0   
+            SST-MC: ✅ | 0.13s | Cost: 133.0   
+            SST-EB: ✅ | 0.51s | Cost: 139.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 147.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 132.0   
+              BBoE: ✅ | 0.05s | Cost: 145.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 143.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 201.0   
+               BoE: ✅ | 0.18s | Cost: 100.0   
+
+  Trial 50/50 | env_seed=60263 | udf_seed=76552 | Obstacles: 7
+            RRT-MC: ✅ | 0.08s | Cost: 130.0   
+            RRT-EB: ✅ | 0.09s | Cost: 130.0   
+            SST-MC: ✅ | 0.11s | Cost: 130.0   
+            SST-EB: ✅ | 0.11s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 139.0   
+              BBoE: ✅ | 0.06s | Cost: 147.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 121.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 177.0   
+               BoE: ✅ | 0.23s | Cost: 97.70000000000005
+
+======================================================================
+  DIFFICULTY: Medium
+  Circular: 22  |  Rectangular: 18
+======================================================================
+
+  Trial 1/50 | env_seed=16795 | udf_seed=15795 | Obstacles: 40
+            RRT-MC: ✅ | 0.22s | Cost: 146.0   
+            RRT-EB: ✅ | 0.15s | Cost: 131.0   
+            SST-MC: ✅ | 0.27s | Cost: 144.3   
+            SST-EB: ✅ | 0.15s | Cost: 131.0   
+          GBRRT-MC: ✅ | 0.15s | Cost: 156.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 141.0   
+              BBoE: ✅ | 0.05s | Cost: 153.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.08s | Cost: 244.0   
+               BoE: ✅ | 0.19s | Cost: 112.50000000000006
+
+  Trial 2/50 | env_seed=1861 | udf_seed=860 | Obstacles: 40
+            RRT-MC: ✅ | 0.46s | Cost: 186.0   
+            RRT-EB: ✅ | 0.38s | Cost: 171.0   
+            SST-MC: ✅ | 0.35s | Cost: 202.0   
+            SST-EB: ✅ | 0.39s | Cost: 171.0   
+          GBRRT-MC: ✅ | 0.44s | Cost: 221.0   
+          GBRRT-EB: ✅ | 0.38s | Cost: 228.0   
+              BBoE: ✅ | 0.24s | Cost: 254.0   
+          Db-RRT-F: ✅ | 0.39s | Cost: 251.0   
+          Db-RRT-C: ✅ | 0.56s | Cost: 273.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 3/50 | env_seed=77820 | udf_seed=76820 | Obstacles: 40
+            RRT-MC: ✅ | 0.22s | Cost: 154.3   
+            RRT-EB: ✅ | 0.54s | Cost: 155.0   
+            SST-MC: ✅ | 0.18s | Cost: 157.0   
+            SST-EB: ✅ | 0.14s | Cost: 164.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 172.0   
+          GBRRT-EB: ✅ | 0.18s | Cost: 175.0   
+              BBoE: ✅ | 0.14s | Cost: 258.0   
+          Db-RRT-F: ✅ | 0.17s | Cost: 204.0   
+          Db-RRT-C: ✅ | 0.16s | Cost: 244.0   
+               BoE: ✅ | 2.68s | Cost: 123.20000000000005
+
+  Trial 4/50 | env_seed=55886 | udf_seed=54886 | Obstacles: 40
+            RRT-MC: ✅ | 0.39s | Cost: 162.0   
+            RRT-EB: ✅ | 0.10s | Cost: 145.0   
+            SST-MC: ✅ | 0.50s | Cost: 165.0   
+            SST-EB: ✅ | 0.10s | Cost: 145.0   
+          GBRRT-MC: ✅ | 0.19s | Cost: 170.0   
+          GBRRT-EB: ✅ | 0.29s | Cost: 175.0   
+              BBoE: ✅ | 0.10s | Cost: 175.0   
+          Db-RRT-F: ✅ | 0.13s | Cost: 200.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 245.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 5/50 | env_seed=7265 | udf_seed=6265 | Obstacles: 40
+            RRT-MC: ✅ | 0.16s | Cost: 172.0   
+            RRT-EB: ✅ | 0.20s | Cost: 163.0   
+            SST-MC: ✅ | 0.18s | Cost: 172.0   
+            SST-EB: ✅ | 0.21s | Cost: 163.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 136.0   
+              BBoE: ✅ | 0.09s | Cost: 164.0   
+          Db-RRT-F: ✅ | 0.11s | Cost: 132.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 204.0   
+               BoE: ✅ | 0.69s | Cost: 115.0   
+
+  Trial 6/50 | env_seed=83386 | udf_seed=82386 | Obstacles: 40
+            RRT-MC: ✅ | 0.10s | Cost: 145.0   
+            RRT-EB: ✅ | 0.11s | Cost: 144.0   
+            SST-MC: ✅ | 0.12s | Cost: 145.0   
+            SST-EB: ✅ | 0.12s | Cost: 155.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 129.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 154.0   
+              BBoE: ✅ | 0.06s | Cost: 142.0   
+          Db-RRT-F: ✅ | 0.07s | Cost: 152.0   
+          Db-RRT-C: ✅ | 0.14s | Cost: 219.0   
+               BoE: ✅ | 0.22s | Cost: 108.70000000000005
+
+  Trial 7/50 | env_seed=38194 | udf_seed=37194 | Obstacles: 40
+            RRT-MC: ✅ | 0.32s | Cost: 173.0   
+            RRT-EB: ✅ | 0.42s | Cost: 174.0   
+            SST-MC: ✅ | 0.35s | Cost: 163.5   
+            SST-EB: ✅ | 0.18s | Cost: 167.0   
+          GBRRT-MC: ✅ | 0.25s | Cost: 155.0   
+          GBRRT-EB: ✅ | 0.22s | Cost: 162.0   
+              BBoE: ✅ | 0.12s | Cost: 213.0   
+          Db-RRT-F: ✅ | 0.08s | Cost: 184.0   
+          Db-RRT-C: ✅ | 0.10s | Cost: 195.0   
+               BoE: ✅ | 4.90s | Cost: 133.2   
+
+  Trial 8/50 | env_seed=88499 | udf_seed=87498 | Obstacles: 40
+            RRT-MC: ✅ | 0.18s | Cost: 158.0   
+            RRT-EB: ✅ | 0.24s | Cost: 141.0   
+            SST-MC: ✅ | 0.20s | Cost: 145.0   
+            SST-EB: ✅ | 0.31s | Cost: 129.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 142.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 130.0   
+              BBoE: ✅ | 0.09s | Cost: 148.0   
+          Db-RRT-F: ✅ | 0.14s | Cost: 158.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 190.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 9/50 | env_seed=45131 | udf_seed=44131 | Obstacles: 40
+            RRT-MC: ✅ | 0.25s | Cost: 155.0   
+            RRT-EB: ✅ | 0.39s | Cost: 173.0   
+            SST-MC: ✅ | 0.43s | Cost: 174.00000000000003
+            SST-EB: ✅ | 0.63s | Cost: 187.0   
+          GBRRT-MC: ✅ | 0.15s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 135.0   
+              BBoE: ✅ | 0.08s | Cost: 160.0   
+          Db-RRT-F: ✅ | 0.24s | Cost: 187.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 182.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 10/50 | env_seed=61265 | udf_seed=60263 | Obstacles: 40
+            RRT-MC: ✅ | 0.49s | Cost: 183.0   
+            RRT-EB: ✅ | 0.15s | Cost: 160.0   
+            SST-MC: ✅ | 0.31s | Cost: 167.0   
+            SST-EB: ✅ | 0.15s | Cost: 160.0   
+          GBRRT-MC: ✅ | 0.23s | Cost: 172.0   
+          GBRRT-EB: ✅ | 0.21s | Cost: 178.0   
+              BBoE: ✅ | 0.18s | Cost: 201.0   
+          Db-RRT-F: ✅ | 0.56s | Cost: 335.0   
+          Db-RRT-C: ✅ | 0.27s | Cost: 264.0   
+               BoE: ✅ | 4.38s | Cost: 123.50000000000006
+
+  Trial 11/50 | env_seed=16795 | udf_seed=16023 | Obstacles: 40
+            RRT-MC: ✅ | 0.19s | Cost: 150.0   
+            RRT-EB: ✅ | 0.12s | Cost: 157.0   
+            SST-MC: ✅ | 0.24s | Cost: 150.0   
+            SST-EB: ✅ | 0.13s | Cost: 157.0   
+          GBRRT-MC: ✅ | 0.16s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 140.0   
+              BBoE: ✅ | 0.10s | Cost: 171.0   
+          Db-RRT-F: ✅ | 0.17s | Cost: 189.0   
+          Db-RRT-C: ✅ | 0.21s | Cost: 256.0   
+               BoE: ✅ | 0.19s | Cost: 112.50000000000006
+
+  Trial 12/50 | env_seed=1861 | udf_seed=41090 | Obstacles: 40
+            RRT-MC: ✅ | 0.29s | Cost: 223.0   
+            RRT-EB: ✅ | 0.25s | Cost: 192.0   
+            SST-MC: ✅ | 0.50s | Cost: 227.0   
+            SST-EB: ✅ | 0.25s | Cost: 192.0   
+          GBRRT-MC: ✅ | 0.54s | Cost: 221.0   
+          GBRRT-EB: ✅ | 0.30s | Cost: 197.0   
+              BBoE: ✅ | 0.33s | Cost: 211.0   
+          Db-RRT-F: ✅ | 0.42s | Cost: 208.0   
+          Db-RRT-C: ✅ | 0.38s | Cost: 323.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 13/50 | env_seed=77820 | udf_seed=67221 | Obstacles: 40
+            RRT-MC: ✅ | 0.17s | Cost: 156.50000000000003
+            RRT-EB: ✅ | 0.18s | Cost: 175.0   
+            SST-MC: ✅ | 0.19s | Cost: 156.50000000000003
+            SST-EB: ✅ | 0.24s | Cost: 202.0   
+          GBRRT-MC: ✅ | 0.19s | Cost: 179.0   
+          GBRRT-EB: ✅ | 0.14s | Cost: 168.0   
+              BBoE: ✅ | 0.16s | Cost: 177.0   
+          Db-RRT-F: ✅ | 0.33s | Cost: 238.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 199.0   
+               BoE: ✅ | 2.77s | Cost: 124.4   
+
+  Trial 14/50 | env_seed=55886 | udf_seed=64820 | Obstacles: 40
+            RRT-MC: ✅ | 0.25s | Cost: 155.0   
+            RRT-EB: ✅ | 0.12s | Cost: 154.0   
+            SST-MC: ✅ | 0.28s | Cost: 155.0   
+            SST-EB: ✅ | 0.13s | Cost: 154.0   
+          GBRRT-MC: ✅ | 0.29s | Cost: 181.0   
+          GBRRT-EB: ✅ | 0.23s | Cost: 184.0   
+              BBoE: ✅ | 0.14s | Cost: 171.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 173.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 224.0   
+               BoE: ✅ | 4.83s | Cost: 146.50000000000006
+
+  Trial 15/50 | env_seed=7265 | udf_seed=769 | Obstacles: 40
+            RRT-MC: ✅ | 0.27s | Cost: 165.0   
+            RRT-EB: ✅ | 0.36s | Cost: 151.0   
+            SST-MC: ✅ | 0.25s | Cost: 152.0   
+            SST-EB: ✅ | 0.36s | Cost: 154.0   
+          GBRRT-MC: ✅ | 0.18s | Cost: 162.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 158.0   
+              BBoE: ✅ | 0.08s | Cost: 118.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 159.0   
+          Db-RRT-C: ✅ | 0.14s | Cost: 280.0   
+               BoE: ✅ | 0.78s | Cost: 110.20000000000005
+
+  Trial 16/50 | env_seed=83386 | udf_seed=59735 | Obstacles: 40
+            RRT-MC: ✅ | 0.17s | Cost: 136.0   
+            RRT-EB: ✅ | 0.08s | Cost: 132.0   
+            SST-MC: ✅ | 0.19s | Cost: 136.0   
+            SST-EB: ✅ | 0.08s | Cost: 132.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 127.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 145.0   
+              BBoE: ✅ | 0.11s | Cost: 158.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 129.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 176.0   
+               BoE: ✅ | 0.20s | Cost: 108.70000000000005
+
+  Trial 17/50 | env_seed=38194 | udf_seed=62955 | Obstacles: 40
+            RRT-MC: ✅ | 0.39s | Cost: 159.0   
+            RRT-EB: ✅ | 0.29s | Cost: 192.0   
+            SST-MC: ✅ | 0.55s | Cost: 196.0   
+            SST-EB: ✅ | 0.40s | Cost: 190.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 140.0   
+          GBRRT-EB: ✅ | 0.27s | Cost: 159.0   
+              BBoE: ✅ | 0.16s | Cost: 204.0   
+          Db-RRT-F: ✅ | 0.19s | Cost: 202.0   
+          Db-RRT-C: ✅ | 0.65s | Cost: 221.0   
+               BoE: ✅ | 4.52s | Cost: 133.2   
+
+  Trial 18/50 | env_seed=88499 | udf_seed=64925 | Obstacles: 40
+            RRT-MC: ✅ | 0.33s | Cost: 154.0   
+            RRT-EB: ✅ | 0.18s | Cost: 118.20000000000002
+            SST-MC: ✅ | 0.39s | Cost: 154.0   
+            SST-EB: ✅ | 0.44s | Cost: 120.0   
+          GBRRT-MC: ✅ | 0.13s | Cost: 126.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 125.0   
+              BBoE: ✅ | 0.08s | Cost: 136.0   
+          Db-RRT-F: ✅ | 0.09s | Cost: 150.0   
+          Db-RRT-C: ✅ | 0.10s | Cost: 169.0   
+               BoE: ✅ | 0.60s | Cost: 104.60000000000005
+
+  Trial 19/50 | env_seed=45131 | udf_seed=67969 | Obstacles: 40
+            RRT-MC: ✅ | 0.26s | Cost: 150.00000000000003
+            RRT-EB: ✅ | 0.37s | Cost: 147.0   
+            SST-MC: ✅ | 0.43s | Cost: 155.0   
+            SST-EB: ✅ | 0.37s | Cost: 147.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 148.0   
+              BBoE: ✅ | 0.10s | Cost: 191.0   
+          Db-RRT-F: ✅ | 0.36s | Cost: 196.0   
+          Db-RRT-C: ✅ | 0.33s | Cost: 227.0   
+               BoE: ✅ | 4.24s | Cost: 130.20000000000002
+
+  Trial 20/50 | env_seed=61265 | udf_seed=5311 | Obstacles: 40
+            RRT-MC: ✅ | 0.23s | Cost: 166.0   
+            RRT-EB: ✅ | 0.19s | Cost: 159.0   
+            SST-MC: ✅ | 0.25s | Cost: 163.0   
+            SST-EB: ✅ | 0.19s | Cost: 159.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 157.0   
+          GBRRT-EB: ✅ | 0.30s | Cost: 173.0   
+              BBoE: ✅ | 0.12s | Cost: 199.0   
+          Db-RRT-F: ✅ | 0.24s | Cost: 154.0   
+          Db-RRT-C: ✅ | 0.13s | Cost: 188.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 21/50 | env_seed=16795 | udf_seed=83104 | Obstacles: 40
+            RRT-MC: ✅ | 0.25s | Cost: 143.0   
+            RRT-EB: ✅ | 0.17s | Cost: 139.0   
+            SST-MC: ✅ | 0.28s | Cost: 143.0   
+            SST-EB: ✅ | 0.64s | Cost: 137.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 146.0   
+          GBRRT-EB: ✅ | 0.20s | Cost: 132.0   
+              BBoE: ✅ | 0.08s | Cost: 151.0   
+          Db-RRT-F: ✅ | 0.12s | Cost: 165.0   
+          Db-RRT-C: ✅ | 0.18s | Cost: 206.0   
+               BoE: ✅ | 0.21s | Cost: 112.50000000000006
+
+  Trial 22/50 | env_seed=1861 | udf_seed=53707 | Obstacles: 40
+            RRT-MC: ✅ | 0.66s | Cost: 189.0   
+            RRT-EB: ✅ | 0.22s | Cost: 200.0   
+            SST-MC: ✅ | 0.76s | Cost: 214.0   
+            SST-EB: ✅ | 0.61s | Cost: 181.0   
+          GBRRT-MC: ✅ | 0.37s | Cost: 198.0   
+          GBRRT-EB: ✅ | 0.23s | Cost: 202.0   
+              BBoE: ✅ | 0.28s | Cost: 214.0   
+          Db-RRT-F: ✅ | 0.25s | Cost: 232.0   
+          Db-RRT-C: ✅ | 0.67s | Cost: 249.0   
+               BoE: ❌ | 5.02s | Cost: inf     
+
+  Trial 23/50 | env_seed=77820 | udf_seed=85305 | Obstacles: 40
+            RRT-MC: ✅ | 0.18s | Cost: 147.0   
+            RRT-EB: ✅ | 0.27s | Cost: 165.5   
+            SST-MC: ✅ | 0.22s | Cost: 164.0   
+            SST-EB: ✅ | 0.30s | Cost: 165.5   
+          GBRRT-MC: ✅ | 0.43s | Cost: 150.0   
+          GBRRT-EB: ✅ | 0.33s | Cost: 166.0   
+              BBoE: ✅ | 0.15s | Cost: 180.0   
+          Db-RRT-F: ✅ | 0.17s | Cost: 205.0   
+          Db-RRT-C: ✅ | 0.20s | Cost: 259.0   
+               BoE: ❌ | 5.02s | Cost: inf     
+
+  Trial 24/50 | env_seed=55886 | udf_seed=28693 | Obstacles: 40
+            RRT-MC: ✅ | 0.20s | Cost: 155.0   
+            RRT-EB: ✅ | 0.24s | Cost: 159.0   
+            SST-MC: ✅ | 0.25s | Cost: 155.0   
+            SST-EB: ✅ | 0.33s | Cost: 160.0   
+          GBRRT-MC: ✅ | 0.59s | Cost: 195.0   
+          GBRRT-EB: ✅ | 0.38s | Cost: 162.0   
+              BBoE: ✅ | 0.25s | Cost: 182.0   
+          Db-RRT-F: ✅ | 0.25s | Cost: 187.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 262.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 25/50 | env_seed=7265 | udf_seed=71932 | Obstacles: 40
+            RRT-MC: ✅ | 0.11s | Cost: 153.0   
+            RRT-EB: ✅ | 0.16s | Cost: 131.0   
+            SST-MC: ✅ | 0.13s | Cost: 153.0   
+            SST-EB: ✅ | 0.17s | Cost: 131.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 135.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 142.0   
+              BBoE: ✅ | 0.12s | Cost: 174.0   
+          Db-RRT-F: ✅ | 0.09s | Cost: 171.0   
+          Db-RRT-C: ✅ | 0.11s | Cost: 181.0   
+               BoE: ✅ | 0.85s | Cost: 110.20000000000005
+
+  Trial 26/50 | env_seed=83386 | udf_seed=93016 | Obstacles: 40
+            RRT-MC: ✅ | 0.10s | Cost: 117.0   
+            RRT-EB: ✅ | 0.13s | Cost: 123.0   
+            SST-MC: ✅ | 0.12s | Cost: 117.0   
+            SST-EB: ✅ | 0.14s | Cost: 123.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 129.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 146.0   
+              BBoE: ✅ | 0.08s | Cost: 132.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 141.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 198.0   
+               BoE: ✅ | 0.22s | Cost: 108.70000000000005
+
+  Trial 27/50 | env_seed=38194 | udf_seed=25658 | Obstacles: 40
+            RRT-MC: ✅ | 0.33s | Cost: 193.0   
+            RRT-EB: ✅ | 0.15s | Cost: 163.0   
+            SST-MC: ✅ | 0.40s | Cost: 163.0   
+            SST-EB: ✅ | 0.21s | Cost: 163.0   
+          GBRRT-MC: ✅ | 0.49s | Cost: 217.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 159.0   
+              BBoE: ✅ | 0.11s | Cost: 152.0   
+          Db-RRT-F: ✅ | 0.07s | Cost: 164.0   
+          Db-RRT-C: ✅ | 0.19s | Cost: 221.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 28/50 | env_seed=88499 | udf_seed=84478 | Obstacles: 40
+            RRT-MC: ✅ | 0.14s | Cost: 126.0   
+            RRT-EB: ✅ | 0.51s | Cost: 138.0   
+            SST-MC: ✅ | 0.25s | Cost: 121.0   
+            SST-EB: ✅ | 0.38s | Cost: 145.0   
+          GBRRT-MC: ✅ | 0.28s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 144.0   
+              BBoE: ✅ | 0.06s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.55s | Cost: 230.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 194.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 29/50 | env_seed=45131 | udf_seed=18431 | Obstacles: 40
+            RRT-MC: ✅ | 0.19s | Cost: 156.0   
+            RRT-EB: ✅ | 0.25s | Cost: 158.0   
+            SST-MC: ✅ | 0.26s | Cost: 157.0   
+            SST-EB: ✅ | 0.29s | Cost: 158.0   
+          GBRRT-MC: ✅ | 0.24s | Cost: 154.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 137.0   
+              BBoE: ✅ | 0.09s | Cost: 162.0   
+          Db-RRT-F: ✅ | 0.54s | Cost: 219.40000000000003
+          Db-RRT-C: ✅ | 0.36s | Cost: 286.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 30/50 | env_seed=61265 | udf_seed=2747 | Obstacles: 40
+            RRT-MC: ✅ | 0.23s | Cost: 171.0   
+            RRT-EB: ✅ | 0.18s | Cost: 151.0   
+            SST-MC: ✅ | 0.25s | Cost: 183.0   
+            SST-EB: ✅ | 0.22s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.34s | Cost: 230.0   
+          GBRRT-EB: ✅ | 0.29s | Cost: 177.0   
+              BBoE: ✅ | 0.18s | Cost: 205.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 168.0   
+          Db-RRT-C: ✅ | 0.21s | Cost: 251.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 31/50 | env_seed=16795 | udf_seed=59150 | Obstacles: 40
+            RRT-MC: ✅ | 0.18s | Cost: 148.0   
+            RRT-EB: ✅ | 0.12s | Cost: 127.0   
+            SST-MC: ✅ | 0.21s | Cost: 142.0   
+            SST-EB: ✅ | 0.11s | Cost: 127.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 165.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 141.0   
+              BBoE: ✅ | 0.10s | Cost: 161.0   
+          Db-RRT-F: ✅ | 0.17s | Cost: 168.0   
+          Db-RRT-C: ✅ | 0.19s | Cost: 177.0   
+               BoE: ✅ | 0.20s | Cost: 112.50000000000006
+
+  Trial 32/50 | env_seed=1861 | udf_seed=65725 | Obstacles: 40
+            RRT-MC: ✅ | 0.34s | Cost: 163.0   
+            RRT-EB: ✅ | 0.52s | Cost: 170.0   
+            SST-MC: ✅ | 0.60s | Cost: 197.0   
+            SST-EB: ✅ | 0.22s | Cost: 199.0   
+          GBRRT-MC: ✅ | 0.24s | Cost: 200.0   
+          GBRRT-EB: ✅ | 0.30s | Cost: 196.0   
+              BBoE: ✅ | 0.22s | Cost: 237.0   
+          Db-RRT-F: ✅ | 0.48s | Cost: 217.0   
+          Db-RRT-C: ✅ | 0.37s | Cost: 213.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 33/50 | env_seed=77820 | udf_seed=84654 | Obstacles: 40
+            RRT-MC: ✅ | 0.47s | Cost: 164.0   
+            RRT-EB: ✅ | 0.09s | Cost: 141.0   
+            SST-MC: ✅ | 0.25s | Cost: 167.0   
+            SST-EB: ✅ | 0.11s | Cost: 150.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 167.0   
+          GBRRT-EB: ✅ | 0.19s | Cost: 191.0   
+              BBoE: ✅ | 0.10s | Cost: 159.0   
+          Db-RRT-F: ✅ | 0.24s | Cost: 232.0   
+          Db-RRT-C: ✅ | 0.17s | Cost: 258.0   
+               BoE: ✅ | 2.57s | Cost: 123.0   
+
+  Trial 34/50 | env_seed=55886 | udf_seed=35773 | Obstacles: 40
+            RRT-MC: ✅ | 0.19s | Cost: 175.0   
+            RRT-EB: ✅ | 0.10s | Cost: 133.0   
+            SST-MC: ✅ | 0.20s | Cost: 155.0   
+            SST-EB: ✅ | 0.10s | Cost: 133.0   
+          GBRRT-MC: ✅ | 0.30s | Cost: 153.0   
+          GBRRT-EB: ✅ | 0.51s | Cost: 186.0   
+              BBoE: ✅ | 0.10s | Cost: 163.0   
+          Db-RRT-F: ✅ | 0.26s | Cost: 225.0   
+          Db-RRT-C: ✅ | 0.22s | Cost: 247.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 35/50 | env_seed=7265 | udf_seed=67435 | Obstacles: 40
+            RRT-MC: ✅ | 0.23s | Cost: 131.0   
+            RRT-EB: ✅ | 0.21s | Cost: 142.0   
+            SST-MC: ✅ | 0.36s | Cost: 127.0   
+            SST-EB: ✅ | 0.26s | Cost: 147.0   
+          GBRRT-MC: ✅ | 0.13s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 139.0   
+              BBoE: ✅ | 0.09s | Cost: 134.0   
+          Db-RRT-F: ✅ | 0.07s | Cost: 186.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 172.0   
+               BoE: ✅ | 0.79s | Cost: 115.0   
+
+  Trial 36/50 | env_seed=83386 | udf_seed=56886 | Obstacles: 40
+            RRT-MC: ✅ | 0.10s | Cost: 144.0   
+            RRT-EB: ✅ | 0.15s | Cost: 156.0   
+            SST-MC: ✅ | 0.12s | Cost: 144.0   
+            SST-EB: ✅ | 0.19s | Cost: 161.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 124.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 143.0   
+              BBoE: ✅ | 0.10s | Cost: 147.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 153.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 150.0   
+               BoE: ✅ | 0.19s | Cost: 108.70000000000005
+
+  Trial 37/50 | env_seed=38194 | udf_seed=66803 | Obstacles: 40
+            RRT-MC: ✅ | 0.19s | Cost: 178.0   
+            RRT-EB: ✅ | 0.16s | Cost: 181.0   
+            SST-MC: ✅ | 0.24s | Cost: 178.0   
+            SST-EB: ✅ | 0.17s | Cost: 160.0   
+          GBRRT-MC: ✅ | 0.46s | Cost: 177.0   
+          GBRRT-EB: ✅ | 0.21s | Cost: 164.0   
+              BBoE: ✅ | 0.16s | Cost: 250.0   
+          Db-RRT-F: ✅ | 0.19s | Cost: 237.0   
+          Db-RRT-C: ✅ | 0.11s | Cost: 207.0   
+               BoE: ✅ | 4.23s | Cost: 133.2   
+
+  Trial 38/50 | env_seed=88499 | udf_seed=31551 | Obstacles: 40
+            RRT-MC: ✅ | 0.14s | Cost: 132.0   
+            RRT-EB: ✅ | 0.25s | Cost: 135.0   
+            SST-MC: ✅ | 0.18s | Cost: 132.0   
+            SST-EB: ✅ | 0.25s | Cost: 135.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.18s | Cost: 141.0   
+              BBoE: ✅ | 0.22s | Cost: 159.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 141.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 171.0   
+               BoE: ✅ | 0.33s | Cost: 104.60000000000005
+
+  Trial 39/50 | env_seed=45131 | udf_seed=11394 | Obstacles: 40
+            RRT-MC: ✅ | 0.27s | Cost: 151.0   
+            RRT-EB: ✅ | 0.29s | Cost: 149.0   
+            SST-MC: ✅ | 0.32s | Cost: 151.0   
+            SST-EB: ✅ | 0.28s | Cost: 149.0   
+          GBRRT-MC: ✅ | 0.20s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 144.0   
+              BBoE: ✅ | 0.11s | Cost: 208.0   
+          Db-RRT-F: ✅ | 0.14s | Cost: 196.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 207.0   
+               BoE: ✅ | 3.50s | Cost: 130.50000000000006
+
+  Trial 40/50 | env_seed=61265 | udf_seed=69092 | Obstacles: 40
+            RRT-MC: ✅ | 0.60s | Cost: 145.0   
+            RRT-EB: ✅ | 0.17s | Cost: 154.0   
+            SST-MC: ✅ | 0.76s | Cost: 145.0   
+            SST-EB: ✅ | 0.13s | Cost: 154.0   
+          GBRRT-MC: ✅ | 0.16s | Cost: 147.0   
+          GBRRT-EB: ✅ | 0.37s | Cost: 212.0   
+              BBoE: ✅ | 0.13s | Cost: 190.0   
+          Db-RRT-F: ✅ | 0.09s | Cost: 188.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 243.0   
+               BoE: ✅ | 4.37s | Cost: 123.50000000000006
+
+  Trial 41/50 | env_seed=16795 | udf_seed=3890 | Obstacles: 40
+            RRT-MC: ✅ | 0.17s | Cost: 150.0   
+            RRT-EB: ✅ | 0.15s | Cost: 136.0   
+            SST-MC: ✅ | 0.19s | Cost: 150.0   
+            SST-EB: ✅ | 0.16s | Cost: 136.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.14s | Cost: 140.0   
+              BBoE: ✅ | 0.09s | Cost: 156.0   
+          Db-RRT-F: ✅ | 0.19s | Cost: 176.0   
+          Db-RRT-C: ✅ | 0.11s | Cost: 199.0   
+               BoE: ✅ | 0.18s | Cost: 112.50000000000006
+
+  Trial 42/50 | env_seed=1861 | udf_seed=41606 | Obstacles: 40
+            RRT-MC: ✅ | 0.30s | Cost: 207.0   
+            RRT-EB: ✅ | 0.44s | Cost: 168.0   
+            SST-MC: ✅ | 0.35s | Cost: 171.0   
+            SST-EB: ✅ | 0.33s | Cost: 164.0   
+          GBRRT-MC: ✅ | 0.55s | Cost: 220.0   
+          GBRRT-EB: ✅ | 0.46s | Cost: 214.0   
+              BBoE: ✅ | 0.24s | Cost: 274.0   
+          Db-RRT-F: ✅ | 0.54s | Cost: 230.0   
+          Db-RRT-C: ✅ | 0.27s | Cost: 225.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 43/50 | env_seed=77820 | udf_seed=96276 | Obstacles: 40
+            RRT-MC: ✅ | 0.20s | Cost: 165.0   
+            RRT-EB: ✅ | 0.17s | Cost: 161.0   
+            SST-MC: ✅ | 0.27s | Cost: 164.0   
+            SST-EB: ✅ | 0.41s | Cost: 204.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 174.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 145.0   
+              BBoE: ✅ | 0.09s | Cost: 152.0   
+          Db-RRT-F: ✅ | 0.12s | Cost: 193.0   
+          Db-RRT-C: ✅ | 0.19s | Cost: 198.0   
+               BoE: ✅ | 1.97s | Cost: 125.0   
+
+  Trial 44/50 | env_seed=55886 | udf_seed=80038 | Obstacles: 40
+            RRT-MC: ✅ | 0.20s | Cost: 170.0   
+            RRT-EB: ✅ | 0.23s | Cost: 147.0   
+            SST-MC: ✅ | 0.24s | Cost: 170.0   
+            SST-EB: ✅ | 0.30s | Cost: 132.60000000000002
+          GBRRT-MC: ✅ | 0.16s | Cost: 158.0   
+          GBRRT-EB: ✅ | 0.17s | Cost: 141.0   
+              BBoE: ✅ | 0.12s | Cost: 188.0   
+          Db-RRT-F: ✅ | 0.13s | Cost: 193.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 229.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 45/50 | env_seed=7265 | udf_seed=87313 | Obstacles: 40
+            RRT-MC: ✅ | 0.12s | Cost: 148.0   
+            RRT-EB: ✅ | 0.16s | Cost: 144.0   
+            SST-MC: ✅ | 0.15s | Cost: 148.0   
+            SST-EB: ✅ | 0.17s | Cost: 142.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 141.0   
+          GBRRT-EB: ✅ | 0.18s | Cost: 157.0   
+              BBoE: ✅ | 0.09s | Cost: 138.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 202.0   
+          Db-RRT-C: ✅ | 0.08s | Cost: 177.0   
+               BoE: ✅ | 0.69s | Cost: 110.20000000000005
+
+  Trial 46/50 | env_seed=83386 | udf_seed=10627 | Obstacles: 40
+            RRT-MC: ✅ | 0.10s | Cost: 127.0   
+            RRT-EB: ✅ | 0.11s | Cost: 149.50000000000003
+            SST-MC: ✅ | 0.11s | Cost: 137.0   
+            SST-EB: ✅ | 0.12s | Cost: 149.50000000000003
+          GBRRT-MC: ✅ | 0.08s | Cost: 138.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 135.0   
+              BBoE: ✅ | 0.06s | Cost: 129.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 142.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 167.0   
+               BoE: ✅ | 0.19s | Cost: 108.70000000000005
+
+  Trial 47/50 | env_seed=38194 | udf_seed=8792 | Obstacles: 40
+            RRT-MC: ✅ | 0.25s | Cost: 156.0   
+            RRT-EB: ✅ | 0.13s | Cost: 161.0   
+            SST-MC: ✅ | 0.31s | Cost: 153.0   
+            SST-EB: ✅ | 0.23s | Cost: 165.0   
+          GBRRT-MC: ✅ | 0.26s | Cost: 165.0   
+          GBRRT-EB: ✅ | 0.22s | Cost: 167.0   
+              BBoE: ✅ | 0.07s | Cost: 154.0   
+          Db-RRT-F: ✅ | 0.17s | Cost: 194.0   
+          Db-RRT-C: ✅ | 0.24s | Cost: 238.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 48/50 | env_seed=88499 | udf_seed=73969 | Obstacles: 40
+            RRT-MC: ✅ | 0.38s | Cost: 159.0   
+            RRT-EB: ✅ | 0.26s | Cost: 165.0   
+            SST-MC: ✅ | 0.27s | Cost: 118.0   
+            SST-EB: ✅ | 0.14s | Cost: 143.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 135.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 137.0   
+              BBoE: ✅ | 0.09s | Cost: 184.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 141.0   
+          Db-RRT-C: ✅ | 0.10s | Cost: 203.0   
+               BoE: ✅ | 0.35s | Cost: 104.60000000000005
+
+  Trial 49/50 | env_seed=45131 | udf_seed=43001 | Obstacles: 40
+            RRT-MC: ✅ | 0.45s | Cost: 180.0   
+            RRT-EB: ✅ | 0.21s | Cost: 161.0   
+            SST-MC: ✅ | 0.56s | Cost: 180.0   
+            SST-EB: ✅ | 0.57s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.19s | Cost: 168.0   
+          GBRRT-EB: ✅ | 0.19s | Cost: 160.0   
+              BBoE: ✅ | 0.11s | Cost: 192.0   
+          Db-RRT-F: ✅ | 0.42s | Cost: 175.0   
+          Db-RRT-C: ✅ | 0.10s | Cost: 233.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 50/50 | env_seed=61265 | udf_seed=76552 | Obstacles: 40
+            RRT-MC: ✅ | 0.11s | Cost: 143.0   
+            RRT-EB: ✅ | 0.54s | Cost: 176.0   
+            SST-MC: ✅ | 0.12s | Cost: 143.0   
+            SST-EB: ✅ | 0.59s | Cost: 181.0   
+          GBRRT-MC: ✅ | 0.15s | Cost: 161.0   
+          GBRRT-EB: ✅ | 0.19s | Cost: 199.0   
+              BBoE: ✅ | 0.17s | Cost: 176.0   
+          Db-RRT-F: ✅ | 0.16s | Cost: 193.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 178.0   
+               BoE: ✅ | 4.70s | Cost: 123.50000000000006
+
+======================================================================
+  DIFFICULTY: Hard
+  Circular: 33  |  Rectangular: 25
+======================================================================
+
+  Trial 1/50 | env_seed=17797 | udf_seed=15795 | Obstacles: 58
+            RRT-MC: ✅ | 0.67s | Cost: 176.0   
+            RRT-EB: ✅ | 0.34s | Cost: 136.0   
+            SST-MC: ✅ | 0.45s | Cost: 154.0   
+            SST-EB: ✅ | 0.82s | Cost: 148.0   
+          GBRRT-MC: ✅ | 0.38s | Cost: 147.0   
+          GBRRT-EB: ✅ | 0.65s | Cost: 166.0   
+              BBoE: ✅ | 0.14s | Cost: 200.0   
+          Db-RRT-F: ✅ | 0.12s | Cost: 174.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 172.0   
+               BoE: ✅ | 1.22s | Cost: 128.00000000000003
+
+  Trial 2/50 | env_seed=2860 | udf_seed=860 | Obstacles: 58
+            RRT-MC: ✅ | 0.13s | Cost: 134.0   
+            RRT-EB: ✅ | 0.37s | Cost: 160.0   
+            SST-MC: ✅ | 0.14s | Cost: 134.0   
+            SST-EB: ✅ | 0.39s | Cost: 149.0   
+          GBRRT-MC: ❌ | 5.00s | Cost: inf     
+          GBRRT-EB: ✅ | 0.10s | Cost: 139.0   
+              BBoE: ✅ | 0.08s | Cost: 145.0   
+          Db-RRT-F: ✅ | 0.36s | Cost: 195.0   
+          Db-RRT-C: ✅ | 0.29s | Cost: 223.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 3/50 | env_seed=78820 | udf_seed=76820 | Obstacles: 58
+            RRT-MC: ✅ | 0.25s | Cost: 204.0   
+            RRT-EB: ✅ | 0.67s | Cost: 182.0   
+            SST-MC: ✅ | 0.39s | Cost: 203.0   
+            SST-EB: ✅ | 0.83s | Cost: 202.5   
+          GBRRT-MC: ✅ | 0.36s | Cost: 146.0   
+          GBRRT-EB: ✅ | 0.25s | Cost: 172.0   
+              BBoE: ✅ | 0.20s | Cost: 197.0   
+          Db-RRT-F: ✅ | 0.52s | Cost: 336.0   
+          Db-RRT-C: ✅ | 0.63s | Cost: 266.0   
+               BoE: ✅ | 1.91s | Cost: 112.50000000000006
+
+  Trial 4/50 | env_seed=56886 | udf_seed=54886 | Obstacles: 58
+            RRT-MC: ✅ | 0.28s | Cost: 162.0   
+            RRT-EB: ✅ | 0.43s | Cost: 167.0   
+            SST-MC: ✅ | 0.64s | Cost: 177.0   
+            SST-EB: ✅ | 0.52s | Cost: 155.0   
+          GBRRT-MC: ✅ | 1.47s | Cost: 216.0   
+          GBRRT-EB: ✅ | 0.65s | Cost: 178.0   
+              BBoE: ✅ | 0.88s | Cost: 351.4999999999999
+          Db-RRT-F: ✅ | 0.59s | Cost: 256.0   
+          Db-RRT-C: ✅ | 0.44s | Cost: 198.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 5/50 | env_seed=8265 | udf_seed=6265 | Obstacles: 58
+            RRT-MC: ✅ | 0.33s | Cost: 188.0   
+            RRT-EB: ✅ | 0.48s | Cost: 204.0   
+            SST-MC: ✅ | 0.44s | Cost: 199.0   
+            SST-EB: ✅ | 0.53s | Cost: 212.0   
+          GBRRT-MC: ✅ | 0.41s | Cost: 235.0   
+          GBRRT-EB: ✅ | 0.42s | Cost: 238.0   
+              BBoE: ✅ | 0.23s | Cost: 233.0   
+          Db-RRT-F: ✅ | 0.62s | Cost: 250.0   
+          Db-RRT-C: ✅ | 0.41s | Cost: 304.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 6/50 | env_seed=84387 | udf_seed=82386 | Obstacles: 58
+            RRT-MC: ✅ | 0.06s | Cost: 122.0   
+            RRT-EB: ✅ | 0.16s | Cost: 141.0   
+            SST-MC: ✅ | 0.08s | Cost: 122.0   
+            SST-EB: ✅ | 0.16s | Cost: 140.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 143.0   
+              BBoE: ✅ | 0.07s | Cost: 138.0   
+          Db-RRT-F: ✅ | 0.08s | Cost: 149.0   
+          Db-RRT-C: ✅ | 0.11s | Cost: 167.0   
+               BoE: ✅ | 0.66s | Cost: 105.00000000000006
+
+  Trial 7/50 | env_seed=39196 | udf_seed=37194 | Obstacles: 58
+            RRT-MC: ✅ | 0.08s | Cost: 123.0   
+            RRT-EB: ✅ | 0.19s | Cost: 146.0   
+            SST-MC: ✅ | 0.11s | Cost: 121.0   
+            SST-EB: ✅ | 0.41s | Cost: 138.0   
+          GBRRT-MC: ✅ | 0.18s | Cost: 125.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 123.0   
+              BBoE: ✅ | 0.07s | Cost: 155.0   
+          Db-RRT-F: ✅ | 0.08s | Cost: 148.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 193.0   
+               BoE: ✅ | 0.27s | Cost: 101.00000000000006
+
+  Trial 8/50 | env_seed=89498 | udf_seed=87498 | Obstacles: 58
+            RRT-MC: ✅ | 0.18s | Cost: 138.0   
+            RRT-EB: ✅ | 0.17s | Cost: 150.0   
+            SST-MC: ✅ | 0.30s | Cost: 133.4   
+            SST-EB: ✅ | 0.17s | Cost: 150.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 142.0   
+          GBRRT-EB: ✅ | 0.18s | Cost: 137.0   
+              BBoE: ✅ | 0.16s | Cost: 171.0   
+          Db-RRT-F: ❌ | 0.98s | Cost: inf     
+          Db-RRT-C: ✅ | 0.45s | Cost: 181.0   
+               BoE: ✅ | 0.23s | Cost: 110.20000000000005
+
+  Trial 9/50 | env_seed=46131 | udf_seed=44131 | Obstacles: 58
+            RRT-MC: ✅ | 0.42s | Cost: 178.0   
+            RRT-EB: ✅ | 0.55s | Cost: 166.0   
+            SST-MC: ✅ | 0.49s | Cost: 178.0   
+            SST-EB: ✅ | 0.59s | Cost: 156.50000000000003
+          GBRRT-MC: ✅ | 0.56s | Cost: 174.0   
+          GBRRT-EB: ✅ | 0.39s | Cost: 173.0   
+              BBoE: ✅ | 0.23s | Cost: 229.0   
+          Db-RRT-F: ✅ | 0.75s | Cost: 229.0   
+          Db-RRT-C: ✅ | 0.57s | Cost: 248.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 10/50 | env_seed=62263 | udf_seed=60263 | Obstacles: 58
+            RRT-MC: ✅ | 0.14s | Cost: 135.0   
+            RRT-EB: ✅ | 0.10s | Cost: 140.0   
+            SST-MC: ✅ | 0.19s | Cost: 166.0   
+            SST-EB: ✅ | 0.12s | Cost: 122.0   
+          GBRRT-MC: ✅ | 0.16s | Cost: 134.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 144.0   
+              BBoE: ✅ | 0.07s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.07s | Cost: 148.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 176.0   
+               BoE: ✅ | 0.42s | Cost: 113.0   
+
+  Trial 11/50 | env_seed=17797 | udf_seed=16023 | Obstacles: 58
+            RRT-MC: ✅ | 0.86s | Cost: 143.0   
+            RRT-EB: ✅ | 0.15s | Cost: 148.50000000000003
+            SST-MC: ✅ | 1.43s | Cost: 155.0   
+            SST-EB: ✅ | 0.20s | Cost: 149.0   
+          GBRRT-MC: ✅ | 0.29s | Cost: 164.0   
+          GBRRT-EB: ✅ | 0.13s | Cost: 145.0   
+              BBoE: ✅ | 0.11s | Cost: 142.0   
+          Db-RRT-F: ❌ | 1.33s | Cost: inf     
+          Db-RRT-C: ✅ | 0.11s | Cost: 209.0   
+               BoE: ✅ | 1.52s | Cost: 128.00000000000003
+
+  Trial 12/50 | env_seed=2860 | udf_seed=41090 | Obstacles: 58
+            RRT-MC: ✅ | 0.15s | Cost: 144.0   
+            RRT-EB: ✅ | 0.13s | Cost: 150.0   
+            SST-MC: ✅ | 0.19s | Cost: 144.0   
+            SST-EB: ✅ | 0.17s | Cost: 149.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 150.0   
+          GBRRT-EB: ✅ | 0.17s | Cost: 157.0   
+              BBoE: ✅ | 0.09s | Cost: 157.0   
+          Db-RRT-F: ✅ | 0.60s | Cost: 187.0   
+          Db-RRT-C: ✅ | 0.18s | Cost: 206.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 13/50 | env_seed=78820 | udf_seed=67221 | Obstacles: 58
+            RRT-MC: ✅ | 0.26s | Cost: 170.0   
+            RRT-EB: ✅ | 0.28s | Cost: 152.0   
+            SST-MC: ✅ | 0.33s | Cost: 171.0   
+            SST-EB: ✅ | 0.34s | Cost: 153.0   
+          GBRRT-MC: ✅ | 0.30s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.82s | Cost: 209.0   
+              BBoE: ✅ | 0.17s | Cost: 149.0   
+          Db-RRT-F: ✅ | 0.51s | Cost: 283.0   
+          Db-RRT-C: ✅ | 0.21s | Cost: 228.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 14/50 | env_seed=56886 | udf_seed=64820 | Obstacles: 58
+            RRT-MC: ✅ | 0.54s | Cost: 240.0   
+            RRT-EB: ✅ | 0.43s | Cost: 163.0   
+            SST-MC: ✅ | 0.93s | Cost: 170.0   
+            SST-EB: ✅ | 0.45s | Cost: 163.0   
+          GBRRT-MC: ✅ | 1.21s | Cost: 211.0   
+          GBRRT-EB: ✅ | 1.65s | Cost: 285.0   
+              BBoE: ✅ | 0.60s | Cost: 171.0   
+          Db-RRT-F: ✅ | 0.90s | Cost: 224.0   
+          Db-RRT-C: ✅ | 0.18s | Cost: 229.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 15/50 | env_seed=8265 | udf_seed=769 | Obstacles: 58
+            RRT-MC: ✅ | 0.42s | Cost: 228.0   
+            RRT-EB: ✅ | 0.46s | Cost: 232.0   
+            SST-MC: ✅ | 0.39s | Cost: 204.0   
+            SST-EB: ✅ | 0.35s | Cost: 189.0   
+          GBRRT-MC: ✅ | 0.93s | Cost: 289.0   
+          GBRRT-EB: ✅ | 0.46s | Cost: 250.0   
+              BBoE: ✅ | 0.43s | Cost: 254.0   
+          Db-RRT-F: ✅ | 0.42s | Cost: 263.0   
+          Db-RRT-C: ✅ | 0.25s | Cost: 271.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 16/50 | env_seed=84387 | udf_seed=59735 | Obstacles: 58
+            RRT-MC: ✅ | 0.09s | Cost: 147.0   
+            RRT-EB: ✅ | 0.05s | Cost: 133.0   
+            SST-MC: ✅ | 0.13s | Cost: 148.00000000000003
+            SST-EB: ✅ | 0.06s | Cost: 133.0   
+          GBRRT-MC: ✅ | 0.08s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 128.0   
+              BBoE: ✅ | 0.09s | Cost: 153.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 154.0   
+          Db-RRT-C: ✅ | 0.21s | Cost: 189.0   
+               BoE: ✅ | 0.56s | Cost: 110.00000000000003
+
+  Trial 17/50 | env_seed=39196 | udf_seed=62955 | Obstacles: 58
+            RRT-MC: ✅ | 0.18s | Cost: 142.0   
+            RRT-EB: ✅ | 0.13s | Cost: 125.0   
+            SST-MC: ✅ | 0.65s | Cost: 152.0   
+            SST-EB: ✅ | 0.13s | Cost: 125.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.07s | Cost: 122.0   
+              BBoE: ✅ | 0.07s | Cost: 154.0   
+          Db-RRT-F: ✅ | 0.13s | Cost: 157.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 169.0   
+               BoE: ✅ | 0.26s | Cost: 101.00000000000006
+
+  Trial 18/50 | env_seed=89498 | udf_seed=64925 | Obstacles: 58
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 0.14s | Cost: 132.0   
+            SST-MC: ✅ | 0.40s | Cost: 145.0   
+            SST-EB: ✅ | 0.19s | Cost: 149.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.25s | Cost: 135.0   
+              BBoE: ✅ | 0.07s | Cost: 128.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 124.0   
+          Db-RRT-C: ✅ | 0.59s | Cost: 188.0   
+               BoE: ✅ | 0.19s | Cost: 110.20000000000005
+
+  Trial 19/50 | env_seed=46131 | udf_seed=67969 | Obstacles: 58
+            RRT-MC: ✅ | 1.47s | Cost: 174.0   
+            RRT-EB: ✅ | 1.11s | Cost: 171.0   
+            SST-MC: ✅ | 2.23s | Cost: 177.0   
+            SST-EB: ✅ | 1.17s | Cost: 180.0   
+          GBRRT-MC: ✅ | 0.29s | Cost: 186.0   
+          GBRRT-EB: ✅ | 0.20s | Cost: 168.0   
+              BBoE: ✅ | 0.11s | Cost: 221.0   
+          Db-RRT-F: ✅ | 0.39s | Cost: 214.0   
+          Db-RRT-C: ✅ | 0.41s | Cost: 245.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 20/50 | env_seed=62263 | udf_seed=5311 | Obstacles: 58
+            RRT-MC: ✅ | 0.13s | Cost: 138.0   
+            RRT-EB: ✅ | 0.11s | Cost: 143.0   
+            SST-MC: ✅ | 0.16s | Cost: 132.0   
+            SST-EB: ✅ | 0.13s | Cost: 167.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 134.0   
+          GBRRT-EB: ✅ | 0.14s | Cost: 143.0   
+              BBoE: ✅ | 0.06s | Cost: 134.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 139.0   
+          Db-RRT-C: ✅ | 0.14s | Cost: 190.0   
+               BoE: ✅ | 0.41s | Cost: 113.0   
+
+  Trial 21/50 | env_seed=17797 | udf_seed=83104 | Obstacles: 58
+            RRT-MC: ✅ | 1.36s | Cost: 157.0   
+            RRT-EB: ✅ | 0.43s | Cost: 163.0   
+            SST-MC: ✅ | 1.04s | Cost: 142.50000000000003
+            SST-EB: ✅ | 2.61s | Cost: 134.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 146.0   
+          GBRRT-EB: ✅ | 0.89s | Cost: 180.0   
+              BBoE: ✅ | 0.23s | Cost: 167.0   
+          Db-RRT-F: ✅ | 0.32s | Cost: 157.0   
+          Db-RRT-C: ✅ | 0.26s | Cost: 192.0   
+               BoE: ✅ | 1.27s | Cost: 128.00000000000003
+
+  Trial 22/50 | env_seed=2860 | udf_seed=53707 | Obstacles: 58
+            RRT-MC: ✅ | 0.26s | Cost: 152.0   
+            RRT-EB: ✅ | 0.24s | Cost: 151.0   
+            SST-MC: ✅ | 0.32s | Cost: 154.0   
+            SST-EB: ✅ | 0.24s | Cost: 164.0   
+          GBRRT-MC: ✅ | 0.27s | Cost: 145.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 134.0   
+              BBoE: ✅ | 0.07s | Cost: 153.0   
+          Db-RRT-F: ✅ | 0.69s | Cost: 155.0   
+          Db-RRT-C: ✅ | 0.28s | Cost: 172.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 23/50 | env_seed=78820 | udf_seed=85305 | Obstacles: 58
+            RRT-MC: ✅ | 0.18s | Cost: 149.0   
+            RRT-EB: ✅ | 0.17s | Cost: 130.5   
+            SST-MC: ✅ | 0.22s | Cost: 149.0   
+            SST-EB: ✅ | 0.36s | Cost: 173.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.44s | Cost: 187.0   
+              BBoE: ✅ | 0.13s | Cost: 152.0   
+          Db-RRT-F: ✅ | 0.13s | Cost: 255.0   
+          Db-RRT-C: ✅ | 0.14s | Cost: 213.0   
+               BoE: ✅ | 2.51s | Cost: 109.20000000000002
+
+  Trial 24/50 | env_seed=56886 | udf_seed=28693 | Obstacles: 58
+            RRT-MC: ✅ | 0.87s | Cost: 170.0   
+            RRT-EB: ✅ | 0.27s | Cost: 171.0   
+            SST-MC: ✅ | 1.09s | Cost: 162.0   
+            SST-EB: ✅ | 0.26s | Cost: 171.0   
+          GBRRT-MC: ✅ | 0.54s | Cost: 185.0   
+          GBRRT-EB: ✅ | 3.70s | Cost: 484.0   
+              BBoE: ✅ | 0.30s | Cost: 177.0   
+          Db-RRT-F: ❌ | 1.41s | Cost: inf     
+          Db-RRT-C: ✅ | 0.50s | Cost: 239.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 25/50 | env_seed=8265 | udf_seed=71932 | Obstacles: 58
+            RRT-MC: ✅ | 0.47s | Cost: 214.0   
+            RRT-EB: ✅ | 0.53s | Cost: 228.0   
+            SST-MC: ✅ | 0.55s | Cost: 219.0   
+            SST-EB: ✅ | 0.54s | Cost: 228.0   
+          GBRRT-MC: ✅ | 1.01s | Cost: 273.0   
+          GBRRT-EB: ✅ | 0.35s | Cost: 210.0   
+              BBoE: ✅ | 0.22s | Cost: 257.0   
+          Db-RRT-F: ✅ | 0.35s | Cost: 274.0   
+          Db-RRT-C: ✅ | 0.19s | Cost: 300.0   
+               BoE: ❌ | 5.03s | Cost: inf     
+
+  Trial 26/50 | env_seed=84387 | udf_seed=93016 | Obstacles: 58
+            RRT-MC: ✅ | 0.07s | Cost: 127.0   
+            RRT-EB: ✅ | 0.12s | Cost: 149.00000000000006
+            SST-MC: ✅ | 0.09s | Cost: 127.0   
+            SST-EB: ✅ | 0.10s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.22s | Cost: 145.0   
+          GBRRT-EB: ✅ | 0.17s | Cost: 157.0   
+              BBoE: ✅ | 0.05s | Cost: 156.0   
+          Db-RRT-F: ✅ | 0.05s | Cost: 159.20000000000002
+          Db-RRT-C: ✅ | 0.05s | Cost: 168.0   
+               BoE: ✅ | 0.34s | Cost: 115.0   
+
+  Trial 27/50 | env_seed=39196 | udf_seed=25658 | Obstacles: 58
+            RRT-MC: ✅ | 0.13s | Cost: 144.0   
+            RRT-EB: ✅ | 0.46s | Cost: 139.0   
+            SST-MC: ✅ | 0.16s | Cost: 144.0   
+            SST-EB: ✅ | 0.84s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.15s | Cost: 152.0   
+          GBRRT-EB: ✅ | 0.08s | Cost: 135.0   
+              BBoE: ✅ | 0.07s | Cost: 141.0   
+          Db-RRT-F: ✅ | 0.18s | Cost: 184.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 202.0   
+               BoE: ✅ | 0.27s | Cost: 101.00000000000006
+
+  Trial 28/50 | env_seed=89498 | udf_seed=84478 | Obstacles: 58
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 0.09s | Cost: 133.0   
+            SST-MC: ✅ | 0.20s | Cost: 129.0   
+            SST-EB: ✅ | 0.10s | Cost: 133.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 137.0   
+          GBRRT-EB: ✅ | 0.48s | Cost: 183.0   
+              BBoE: ✅ | 0.08s | Cost: 144.0   
+          Db-RRT-F: ❌ | 1.04s | Cost: inf     
+          Db-RRT-C: ❌ | 1.17s | Cost: inf     
+               BoE: ✅ | 0.20s | Cost: 110.20000000000005
+
+  Trial 29/50 | env_seed=46131 | udf_seed=18431 | Obstacles: 58
+            RRT-MC: ✅ | 1.40s | Cost: 196.0   
+            RRT-EB: ✅ | 0.57s | Cost: 184.0   
+            SST-MC: ✅ | 0.85s | Cost: 179.0   
+            SST-EB: ✅ | 2.87s | Cost: 164.0   
+          GBRRT-MC: ✅ | 0.54s | Cost: 212.0   
+          GBRRT-EB: ✅ | 0.31s | Cost: 198.0   
+              BBoE: ✅ | 0.29s | Cost: 206.0   
+          Db-RRT-F: ✅ | 0.49s | Cost: 207.0   
+          Db-RRT-C: ✅ | 0.43s | Cost: 261.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 30/50 | env_seed=62263 | udf_seed=2747 | Obstacles: 58
+            RRT-MC: ✅ | 0.15s | Cost: 142.0   
+            RRT-EB: ✅ | 0.06s | Cost: 130.0   
+            SST-MC: ✅ | 0.20s | Cost: 142.0   
+            SST-EB: ✅ | 0.07s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 138.0   
+          GBRRT-EB: ✅ | 0.09s | Cost: 134.0   
+              BBoE: ✅ | 0.11s | Cost: 144.0   
+          Db-RRT-F: ✅ | 0.04s | Cost: 146.0   
+          Db-RRT-C: ✅ | 0.12s | Cost: 212.0   
+               BoE: ✅ | 0.34s | Cost: 108.50000000000006
+
+  Trial 31/50 | env_seed=17797 | udf_seed=59150 | Obstacles: 58
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 0.21s | Cost: 147.0   
+            SST-MC: ✅ | 0.98s | Cost: 141.0   
+            SST-EB: ✅ | 0.43s | Cost: 152.40000000000003
+          GBRRT-MC: ✅ | 0.46s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.27s | Cost: 146.0   
+              BBoE: ✅ | 0.08s | Cost: 163.0   
+          Db-RRT-F: ✅ | 0.33s | Cost: 182.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 192.0   
+               BoE: ✅ | 1.36s | Cost: 128.00000000000003
+
+  Trial 32/50 | env_seed=2860 | udf_seed=65725 | Obstacles: 58
+            RRT-MC: ✅ | 0.24s | Cost: 136.0   
+            RRT-EB: ✅ | 0.32s | Cost: 163.0   
+            SST-MC: ✅ | 0.25s | Cost: 136.0   
+            SST-EB: ✅ | 0.40s | Cost: 163.0   
+          GBRRT-MC: ✅ | 0.20s | Cost: 169.0   
+          GBRRT-EB: ✅ | 0.42s | Cost: 158.0   
+              BBoE: ✅ | 0.14s | Cost: 182.0   
+          Db-RRT-F: ✅ | 0.16s | Cost: 172.0   
+          Db-RRT-C: ✅ | 0.11s | Cost: 233.0   
+               BoE: ✅ | 3.55s | Cost: 120.0   
+
+  Trial 33/50 | env_seed=78820 | udf_seed=84654 | Obstacles: 58
+            RRT-MC: ✅ | 0.40s | Cost: 170.5   
+            RRT-EB: ✅ | 0.46s | Cost: 225.0   
+            SST-MC: ✅ | 0.50s | Cost: 170.5   
+            SST-EB: ✅ | 0.44s | Cost: 257.50000000000006
+          GBRRT-MC: ✅ | 0.17s | Cost: 150.0   
+          GBRRT-EB: ✅ | 0.15s | Cost: 178.0   
+              BBoE: ✅ | 0.15s | Cost: 173.0   
+          Db-RRT-F: ✅ | 0.09s | Cost: 177.0   
+          Db-RRT-C: ✅ | 0.30s | Cost: 226.0   
+               BoE: ✅ | 2.37s | Cost: 109.20000000000002
+
+  Trial 34/50 | env_seed=56886 | udf_seed=35773 | Obstacles: 58
+            RRT-MC: ✅ | 0.43s | Cost: 179.0   
+            RRT-EB: ✅ | 0.34s | Cost: 180.0   
+            SST-MC: ✅ | 0.45s | Cost: 177.0   
+            SST-EB: ✅ | 0.80s | Cost: 173.0   
+          GBRRT-MC: ✅ | 0.84s | Cost: 223.0   
+          GBRRT-EB: ✅ | 2.38s | Cost: 322.0   
+              BBoE: ✅ | 0.12s | Cost: 191.0   
+          Db-RRT-F: ✅ | 0.46s | Cost: 207.0   
+          Db-RRT-C: ✅ | 0.57s | Cost: 255.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 35/50 | env_seed=8265 | udf_seed=67435 | Obstacles: 58
+            RRT-MC: ✅ | 0.34s | Cost: 213.0   
+            RRT-EB: ✅ | 0.38s | Cost: 198.0   
+            SST-MC: ✅ | 0.58s | Cost: 232.0   
+            SST-EB: ✅ | 0.58s | Cost: 185.0   
+          GBRRT-MC: ✅ | 1.02s | Cost: 257.0   
+          GBRRT-EB: ✅ | 0.48s | Cost: 197.0   
+              BBoE: ✅ | 0.31s | Cost: 224.0   
+          Db-RRT-F: ✅ | 0.65s | Cost: 269.0   
+          Db-RRT-C: ✅ | 0.24s | Cost: 235.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 36/50 | env_seed=84387 | udf_seed=56886 | Obstacles: 58
+            RRT-MC: ✅ | 0.12s | Cost: 152.00000000000003
+            RRT-EB: ✅ | 0.11s | Cost: 125.0   
+            SST-MC: ✅ | 0.15s | Cost: 152.00000000000003
+            SST-EB: ✅ | 0.19s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 162.0   
+          GBRRT-EB: ✅ | 0.14s | Cost: 164.0   
+              BBoE: ✅ | 0.07s | Cost: 140.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 169.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 205.0   
+               BoE: ✅ | 0.75s | Cost: 105.00000000000006
+
+  Trial 37/50 | env_seed=39196 | udf_seed=66803 | Obstacles: 58
+            RRT-MC: ✅ | 0.19s | Cost: 141.0   
+            RRT-EB: ✅ | 0.14s | Cost: 127.0   
+            SST-MC: ✅ | 0.92s | Cost: 142.0   
+            SST-EB: ✅ | 0.14s | Cost: 127.0   
+          GBRRT-MC: ✅ | 0.07s | Cost: 120.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 130.0   
+              BBoE: ✅ | 0.08s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 164.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 204.0   
+               BoE: ✅ | 0.26s | Cost: 101.00000000000006
+
+  Trial 38/50 | env_seed=89498 | udf_seed=31551 | Obstacles: 58
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 4.89s | Cost: 151.0   
+            SST-MC: ✅ | 0.26s | Cost: 126.0   
+            SST-EB: ✅ | 0.38s | Cost: 143.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 151.0   
+          GBRRT-EB: ✅ | 0.34s | Cost: 137.0   
+              BBoE: ✅ | 0.59s | Cost: 173.0   
+          Db-RRT-F: ❌ | 1.12s | Cost: inf     
+          Db-RRT-C: ✅ | 0.36s | Cost: 176.0   
+               BoE: ✅ | 0.20s | Cost: 110.20000000000005
+
+  Trial 39/50 | env_seed=46131 | udf_seed=11394 | Obstacles: 58
+            RRT-MC: ✅ | 1.14s | Cost: 192.0   
+            RRT-EB: ✅ | 0.43s | Cost: 172.0   
+            SST-MC: ✅ | 1.41s | Cost: 183.0   
+            SST-EB: ✅ | 0.46s | Cost: 172.0   
+          GBRRT-MC: ✅ | 0.39s | Cost: 179.0   
+          GBRRT-EB: ✅ | 0.42s | Cost: 211.0   
+              BBoE: ✅ | 0.16s | Cost: 184.0   
+          Db-RRT-F: ✅ | 0.18s | Cost: 182.0   
+          Db-RRT-C: ✅ | 0.16s | Cost: 238.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 40/50 | env_seed=62263 | udf_seed=69092 | Obstacles: 58
+            RRT-MC: ✅ | 0.35s | Cost: 144.0   
+            RRT-EB: ✅ | 0.18s | Cost: 154.0   
+            SST-MC: ✅ | 0.41s | Cost: 136.0   
+            SST-EB: ✅ | 0.26s | Cost: 133.5   
+          GBRRT-MC: ✅ | 0.10s | Cost: 136.0   
+          GBRRT-EB: ✅ | 0.13s | Cost: 141.0   
+              BBoE: ✅ | 0.06s | Cost: 130.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 142.0   
+          Db-RRT-C: ✅ | 0.05s | Cost: 144.0   
+               BoE: ✅ | 0.41s | Cost: 113.0   
+
+  Trial 41/50 | env_seed=17797 | udf_seed=3890 | Obstacles: 58
+            RRT-MC: ✅ | 0.14s | Cost: 146.0   
+            RRT-EB: ✅ | 0.15s | Cost: 151.0   
+            SST-MC: ✅ | 0.63s | Cost: 155.0   
+            SST-EB: ✅ | 0.16s | Cost: 151.0   
+          GBRRT-MC: ✅ | 0.66s | Cost: 180.0   
+          GBRRT-EB: ✅ | 0.28s | Cost: 152.0   
+              BBoE: ✅ | 0.14s | Cost: 184.0   
+          Db-RRT-F: ✅ | 0.11s | Cost: 172.0   
+          Db-RRT-C: ❌ | 1.17s | Cost: inf     
+               BoE: ✅ | 1.42s | Cost: 128.00000000000003
+
+  Trial 42/50 | env_seed=2860 | udf_seed=41606 | Obstacles: 58
+            RRT-MC: ✅ | 0.38s | Cost: 147.0   
+            RRT-EB: ✅ | 0.24s | Cost: 139.0   
+            SST-MC: ✅ | 0.70s | Cost: 138.0   
+            SST-EB: ✅ | 0.25s | Cost: 136.0   
+          GBRRT-MC: ✅ | 0.25s | Cost: 136.0   
+          GBRRT-EB: ✅ | 0.17s | Cost: 142.0   
+              BBoE: ✅ | 0.11s | Cost: 183.0   
+          Db-RRT-F: ✅ | 0.30s | Cost: 155.0   
+          Db-RRT-C: ✅ | 0.09s | Cost: 187.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 43/50 | env_seed=78820 | udf_seed=96276 | Obstacles: 58
+            RRT-MC: ✅ | 0.94s | Cost: 219.0   
+            RRT-EB: ✅ | 0.34s | Cost: 171.0   
+            SST-MC: ✅ | 0.44s | Cost: 194.0   
+            SST-EB: ✅ | 0.32s | Cost: 159.00000000000006
+          GBRRT-MC: ✅ | 0.15s | Cost: 125.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 126.0   
+              BBoE: ✅ | 0.09s | Cost: 154.0   
+          Db-RRT-F: ✅ | 0.46s | Cost: 150.0   
+          Db-RRT-C: ✅ | 0.88s | Cost: 242.0   
+               BoE: ✅ | 2.58s | Cost: 109.20000000000002
+
+  Trial 44/50 | env_seed=56886 | udf_seed=80038 | Obstacles: 58
+            RRT-MC: ✅ | 0.28s | Cost: 167.0   
+            RRT-EB: ✅ | 0.77s | Cost: 189.0   
+            SST-MC: ✅ | 0.32s | Cost: 167.0   
+            SST-EB: ✅ | 0.79s | Cost: 187.0   
+          GBRRT-MC: ✅ | 0.61s | Cost: 192.0   
+          GBRRT-EB: ✅ | 0.40s | Cost: 188.0   
+              BBoE: ✅ | 0.20s | Cost: 163.0   
+          Db-RRT-F: ✅ | 1.20s | Cost: 229.0   
+          Db-RRT-C: ✅ | 0.51s | Cost: 275.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 45/50 | env_seed=8265 | udf_seed=87313 | Obstacles: 58
+            RRT-MC: ✅ | 0.75s | Cost: 242.0   
+            RRT-EB: ✅ | 0.35s | Cost: 201.0   
+            SST-MC: ✅ | 0.77s | Cost: 221.0   
+            SST-EB: ✅ | 0.62s | Cost: 206.0   
+          GBRRT-MC: ✅ | 0.42s | Cost: 249.0   
+          GBRRT-EB: ✅ | 0.44s | Cost: 201.0   
+              BBoE: ✅ | 0.33s | Cost: 214.0   
+          Db-RRT-F: ✅ | 0.51s | Cost: 290.0   
+          Db-RRT-C: ✅ | 0.53s | Cost: 322.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 46/50 | env_seed=84387 | udf_seed=10627 | Obstacles: 58
+            RRT-MC: ✅ | 0.08s | Cost: 120.0   
+            RRT-EB: ✅ | 0.11s | Cost: 143.0   
+            SST-MC: ✅ | 0.10s | Cost: 120.0   
+            SST-EB: ✅ | 0.16s | Cost: 130.0   
+          GBRRT-MC: ✅ | 0.09s | Cost: 133.0   
+          GBRRT-EB: ✅ | 0.10s | Cost: 134.0   
+              BBoE: ✅ | 0.08s | Cost: 169.0   
+          Db-RRT-F: ✅ | 0.03s | Cost: 135.0   
+          Db-RRT-C: ✅ | 0.08s | Cost: 184.0   
+               BoE: ✅ | 0.54s | Cost: 112.60000000000002
+
+  Trial 47/50 | env_seed=39196 | udf_seed=8792 | Obstacles: 58
+            RRT-MC: ✅ | 0.19s | Cost: 131.0   
+            RRT-EB: ✅ | 0.14s | Cost: 139.0   
+            SST-MC: ✅ | 0.23s | Cost: 127.0   
+            SST-EB: ✅ | 0.17s | Cost: 139.0   
+          GBRRT-MC: ✅ | 0.15s | Cost: 152.0   
+          GBRRT-EB: ✅ | 0.16s | Cost: 147.0   
+              BBoE: ✅ | 0.11s | Cost: 143.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 149.0   
+          Db-RRT-C: ✅ | 0.06s | Cost: 168.0   
+               BoE: ✅ | 0.29s | Cost: 101.00000000000006
+
+  Trial 48/50 | env_seed=89498 | udf_seed=73969 | Obstacles: 58
+            RRT-MC: ✅ | 0.16s | Cost: 128.0   
+            RRT-EB: ✅ | 0.20s | Cost: 142.0   
+            SST-MC: ✅ | 0.34s | Cost: 147.0   
+            SST-EB: ✅ | 0.26s | Cost: 150.0   
+          GBRRT-MC: ✅ | 0.21s | Cost: 154.0   
+          GBRRT-EB: ✅ | 0.24s | Cost: 162.0   
+              BBoE: ✅ | 0.29s | Cost: 204.0   
+          Db-RRT-F: ✅ | 0.07s | Cost: 165.0   
+          Db-RRT-C: ✅ | 0.37s | Cost: 191.0   
+               BoE: ✅ | 0.21s | Cost: 110.20000000000005
+
+  Trial 49/50 | env_seed=46131 | udf_seed=43001 | Obstacles: 58
+            RRT-MC: ✅ | 1.63s | Cost: 187.0   
+            RRT-EB: ✅ | 0.76s | Cost: 183.0   
+            SST-MC: ✅ | 1.90s | Cost: 183.0   
+            SST-EB: ✅ | 0.67s | Cost: 170.0   
+          GBRRT-MC: ✅ | 0.56s | Cost: 168.0   
+          GBRRT-EB: ✅ | 0.65s | Cost: 210.0   
+              BBoE: ✅ | 0.20s | Cost: 217.0   
+          Db-RRT-F: ✅ | 0.30s | Cost: 214.0   
+          Db-RRT-C: ✅ | 0.47s | Cost: 225.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 50/50 | env_seed=62263 | udf_seed=76552 | Obstacles: 58
+            RRT-MC: ✅ | 0.08s | Cost: 137.0   
+            RRT-EB: ✅ | 0.11s | Cost: 133.0   
+            SST-MC: ✅ | 0.10s | Cost: 137.0   
+            SST-EB: ✅ | 0.09s | Cost: 137.0   
+          GBRRT-MC: ✅ | 0.11s | Cost: 143.0   
+          GBRRT-EB: ✅ | 0.18s | Cost: 145.0   
+              BBoE: ✅ | 0.05s | Cost: 134.0   
+          Db-RRT-F: ✅ | 0.10s | Cost: 153.0   
+          Db-RRT-C: ✅ | 0.08s | Cost: 182.0   
+               BoE: ✅ | 0.41s | Cost: 113.0   
+
+======================================================================
+  DIFFICULTY: Very Hard
+  Circular: 36  |  Rectangular: 27
+======================================================================
+
+  Trial 1/50 | env_seed=18795 | udf_seed=15795 | Obstacles: 63
+            RRT-MC: ✅ | 0.44s | Cost: 184.0   
+            RRT-EB: ✅ | 1.86s | Cost: 215.0   
+            SST-MC: ✅ | 0.52s | Cost: 178.0   
+            SST-EB: ✅ | 0.89s | Cost: 214.4   
+          GBRRT-MC: ✅ | 0.55s | Cost: 196.0   
+          GBRRT-EB: ✅ | 0.28s | Cost: 177.0   
+              BBoE: ✅ | 0.21s | Cost: 188.0   
+          Db-RRT-F: ❌ | 1.53s | Cost: inf     
+          Db-RRT-C: ✅ | 0.35s | Cost: 277.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 2/50 | env_seed=3862 | udf_seed=860 | Obstacles: 63
+            RRT-MC: ✅ | 0.60s | Cost: 188.0   
+            RRT-EB: ✅ | 0.58s | Cost: 196.0   
+            SST-MC: ✅ | 0.91s | Cost: 186.0   
+            SST-EB: ✅ | 0.56s | Cost: 196.0   
+          GBRRT-MC: ✅ | 0.53s | Cost: 195.0   
+          GBRRT-EB: ✅ | 0.75s | Cost: 206.0   
+              BBoE: ✅ | 0.18s | Cost: 200.0   
+          Db-RRT-F: ✅ | 0.76s | Cost: 228.0   
+          Db-RRT-C: ✅ | 0.76s | Cost: 270.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 3/50 | env_seed=79820 | udf_seed=76820 | Obstacles: 63
+            RRT-MC: ✅ | 0.35s | Cost: 174.0   
+            RRT-EB: ✅ | 0.29s | Cost: 157.0   
+            SST-MC: ✅ | 0.41s | Cost: 174.0   
+            SST-EB: ✅ | 0.31s | Cost: 157.0   
+          GBRRT-MC: ✅ | 0.49s | Cost: 217.0   
+          GBRRT-EB: ✅ | 0.67s | Cost: 168.0   
+              BBoE: ✅ | 0.39s | Cost: 204.0   
+          Db-RRT-F: ✅ | 0.44s | Cost: 248.0   
+          Db-RRT-C: ✅ | 0.47s | Cost: 203.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 4/50 | env_seed=57886 | udf_seed=54886 | Obstacles: 63
+            RRT-MC: ✅ | 0.15s | Cost: 149.0   
+            RRT-EB: ✅ | 0.15s | Cost: 135.0   
+            SST-MC: ✅ | 0.17s | Cost: 149.0   
+            SST-EB: ✅ | 0.51s | Cost: 170.0   
+          GBRRT-MC: ✅ | 0.24s | Cost: 140.0   
+          GBRRT-EB: ✅ | 0.12s | Cost: 136.0   
+              BBoE: ✅ | 0.11s | Cost: 139.0   
+          Db-RRT-F: ✅ | 0.36s | Cost: 167.0   
+          Db-RRT-C: ✅ | 0.15s | Cost: 214.0   
+               BoE: ✅ | 4.70s | Cost: 109.50000000000003
+
+  Trial 5/50 | env_seed=9266 | udf_seed=6265 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 2.16s | Cost: 215.0   
+            SST-MC: ✅ | 1.76s | Cost: 204.0   
+            SST-EB: ✅ | 2.44s | Cost: 211.0   
+          GBRRT-MC: ✅ | 2.04s | Cost: 246.0   
+          GBRRT-EB: ✅ | 2.43s | Cost: 378.0   
+              BBoE: ✅ | 0.58s | Cost: 269.0   
+          Db-RRT-F: ❌ | 1.09s | Cost: inf     
+          Db-RRT-C: ❌ | 1.25s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 6/50 | env_seed=85390 | udf_seed=82386 | Obstacles: 63
+            RRT-MC: ✅ | 0.52s | Cost: 180.0   
+            RRT-EB: ✅ | 0.37s | Cost: 186.0   
+            SST-MC: ✅ | 0.35s | Cost: 176.0   
+            SST-EB: ✅ | 0.82s | Cost: 171.50000000000003
+          GBRRT-MC: ✅ | 0.25s | Cost: 150.0   
+          GBRRT-EB: ✅ | 0.81s | Cost: 186.0   
+              BBoE: ✅ | 0.35s | Cost: 197.0   
+          Db-RRT-F: ❌ | 1.04s | Cost: inf     
+          Db-RRT-C: ✅ | 0.34s | Cost: 259.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 7/50 | env_seed=40194 | udf_seed=37194 | Obstacles: 63
+            RRT-MC: ✅ | 0.60s | Cost: 166.0   
+            RRT-EB: ✅ | 0.60s | Cost: 153.0   
+            SST-MC: ✅ | 0.57s | Cost: 166.0   
+            SST-EB: ✅ | 2.52s | Cost: 269.0   
+          GBRRT-MC: ✅ | 0.33s | Cost: 167.0   
+          GBRRT-EB: ✅ | 0.47s | Cost: 188.0   
+              BBoE: ✅ | 0.17s | Cost: 195.0   
+          Db-RRT-F: ✅ | 0.48s | Cost: 216.0   
+          Db-RRT-C: ❌ | 1.62s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 8/50 | env_seed=90499 | udf_seed=87498 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ❌ | 5.00s | Cost: inf     
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 0.33s | Cost: 192.0   
+          GBRRT-EB: ✅ | 0.11s | Cost: 142.0   
+              BBoE: ✅ | 0.13s | Cost: 157.0   
+          Db-RRT-F: ❌ | 0.82s | Cost: inf     
+          Db-RRT-C: ❌ | 0.94s | Cost: inf     
+               BoE: ✅ | 0.74s | Cost: 117.00000000000001
+
+  Trial 9/50 | env_seed=47131 | udf_seed=44131 | Obstacles: 63
+            RRT-MC: ✅ | 0.86s | Cost: 184.0   
+            RRT-EB: ✅ | 1.59s | Cost: 166.0   
+            SST-MC: ✅ | 0.67s | Cost: 182.0   
+            SST-EB: ✅ | 1.86s | Cost: 165.0   
+          GBRRT-MC: ✅ | 1.08s | Cost: 200.0   
+          GBRRT-EB: ✅ | 0.28s | Cost: 196.0   
+              BBoE: ✅ | 0.16s | Cost: 183.0   
+          Db-RRT-F: ✅ | 0.86s | Cost: 278.0   
+          Db-RRT-C: ✅ | 0.26s | Cost: 244.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 10/50 | env_seed=63263 | udf_seed=60263 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 2.85s | Cost: 194.0   
+            SST-MC: ✅ | 1.04s | Cost: 196.0   
+            SST-EB: ✅ | 0.56s | Cost: 215.5   
+          GBRRT-MC: ✅ | 0.45s | Cost: 194.0   
+          GBRRT-EB: ✅ | 0.72s | Cost: 210.0   
+              BBoE: ✅ | 0.25s | Cost: 224.0   
+          Db-RRT-F: ❌ | 1.70s | Cost: inf     
+          Db-RRT-C: ❌ | 1.40s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 11/50 | env_seed=18795 | udf_seed=16023 | Obstacles: 63
+            RRT-MC: ✅ | 0.74s | Cost: 185.20000000000002
+            RRT-EB: ✅ | 3.34s | Cost: 208.0   
+            SST-MC: ✅ | 1.36s | Cost: 196.0   
+            SST-EB: ✅ | 0.49s | Cost: 182.0   
+          GBRRT-MC: ✅ | 0.37s | Cost: 198.0   
+          GBRRT-EB: ✅ | 0.24s | Cost: 196.0   
+              BBoE: ✅ | 0.27s | Cost: 212.0   
+          Db-RRT-F: ❌ | 1.62s | Cost: inf     
+          Db-RRT-C: ✅ | 0.97s | Cost: 302.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 12/50 | env_seed=3862 | udf_seed=41090 | Obstacles: 63
+            RRT-MC: ✅ | 0.64s | Cost: 201.0   
+            RRT-EB: ✅ | 0.81s | Cost: 198.0   
+            SST-MC: ✅ | 1.13s | Cost: 196.0   
+            SST-EB: ✅ | 0.75s | Cost: 201.0   
+          GBRRT-MC: ✅ | 1.02s | Cost: 232.0   
+          GBRRT-EB: ✅ | 0.25s | Cost: 196.0   
+              BBoE: ✅ | 0.21s | Cost: 222.0   
+          Db-RRT-F: ❌ | 1.61s | Cost: inf     
+          Db-RRT-C: ✅ | 1.56s | Cost: 258.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 13/50 | env_seed=79820 | udf_seed=67221 | Obstacles: 63
+            RRT-MC: ✅ | 0.83s | Cost: 195.0   
+            RRT-EB: ✅ | 0.41s | Cost: 196.0   
+            SST-MC: ✅ | 0.57s | Cost: 189.0   
+            SST-EB: ✅ | 0.59s | Cost: 197.0   
+          GBRRT-MC: ✅ | 0.26s | Cost: 195.0   
+          GBRRT-EB: ✅ | 0.27s | Cost: 189.0   
+              BBoE: ✅ | 0.31s | Cost: 189.0   
+          Db-RRT-F: ✅ | 0.24s | Cost: 233.0   
+          Db-RRT-C: ✅ | 0.37s | Cost: 222.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 14/50 | env_seed=57886 | udf_seed=64820 | Obstacles: 63
+            RRT-MC: ✅ | 0.12s | Cost: 149.0   
+            RRT-EB: ✅ | 0.41s | Cost: 160.0   
+            SST-MC: ✅ | 0.14s | Cost: 149.0   
+            SST-EB: ✅ | 0.31s | Cost: 178.0   
+          GBRRT-MC: ✅ | 0.10s | Cost: 132.0   
+          GBRRT-EB: ✅ | 0.17s | Cost: 164.0   
+              BBoE: ✅ | 0.09s | Cost: 148.0   
+          Db-RRT-F: ✅ | 0.23s | Cost: 244.0   
+          Db-RRT-C: ✅ | 0.23s | Cost: 227.0   
+               BoE: ✅ | 4.47s | Cost: 110.00000000000003
+
+  Trial 15/50 | env_seed=9266 | udf_seed=769 | Obstacles: 63
+            RRT-MC: ✅ | 0.85s | Cost: 220.0   
+            RRT-EB: ✅ | 0.94s | Cost: 188.0   
+            SST-MC: ✅ | 1.08s | Cost: 192.50000000000003
+            SST-EB: ✅ | 0.73s | Cost: 176.0   
+          GBRRT-MC: ✅ | 1.75s | Cost: 228.0   
+          GBRRT-EB: ✅ | 0.59s | Cost: 195.0   
+              BBoE: ✅ | 0.55s | Cost: 311.0   
+          Db-RRT-F: ❌ | 0.94s | Cost: inf     
+          Db-RRT-C: ❌ | 1.26s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 16/50 | env_seed=85390 | udf_seed=59735 | Obstacles: 63
+            RRT-MC: ✅ | 0.51s | Cost: 180.0   
+            RRT-EB: ✅ | 0.25s | Cost: 177.0   
+            SST-MC: ✅ | 0.25s | Cost: 159.0   
+            SST-EB: ✅ | 0.33s | Cost: 176.0   
+          GBRRT-MC: ✅ | 1.36s | Cost: 262.0   
+          GBRRT-EB: ✅ | 0.65s | Cost: 183.0   
+              BBoE: ✅ | 0.22s | Cost: 192.0   
+          Db-RRT-F: ✅ | 1.10s | Cost: 185.0   
+          Db-RRT-C: ✅ | 0.17s | Cost: 196.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 17/50 | env_seed=40194 | udf_seed=62955 | Obstacles: 63
+            RRT-MC: ✅ | 0.90s | Cost: 237.0   
+            RRT-EB: ✅ | 1.21s | Cost: 221.0   
+            SST-MC: ✅ | 1.20s | Cost: 239.0   
+            SST-EB: ✅ | 2.91s | Cost: 230.0   
+          GBRRT-MC: ✅ | 0.88s | Cost: 197.0   
+          GBRRT-EB: ✅ | 0.27s | Cost: 175.0   
+              BBoE: ✅ | 0.10s | Cost: 176.0   
+          Db-RRT-F: ❌ | 1.33s | Cost: inf     
+          Db-RRT-C: ❌ | 1.39s | Cost: inf     
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 18/50 | env_seed=90499 | udf_seed=64925 | Obstacles: 63
+            RRT-MC: ✅ | 3.96s | Cost: 193.0   
+            RRT-EB: ✅ | 0.70s | Cost: 152.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 0.73s | Cost: 155.0   
+          GBRRT-EB: ✅ | 0.23s | Cost: 138.0   
+              BBoE: ✅ | 0.09s | Cost: 140.0   
+          Db-RRT-F: ❌ | 1.37s | Cost: inf     
+          Db-RRT-C: ❌ | 1.23s | Cost: inf     
+               BoE: ✅ | 0.39s | Cost: 119.20000000000002
+
+  Trial 19/50 | env_seed=47131 | udf_seed=67969 | Obstacles: 63
+            RRT-MC: ✅ | 0.56s | Cost: 208.0   
+            RRT-EB: ✅ | 0.50s | Cost: 177.0   
+            SST-MC: ✅ | 0.59s | Cost: 187.0   
+            SST-EB: ✅ | 0.37s | Cost: 188.0   
+          GBRRT-MC: ✅ | 0.21s | Cost: 190.0   
+          GBRRT-EB: ✅ | 0.13s | Cost: 165.0   
+              BBoE: ✅ | 0.13s | Cost: 185.0   
+          Db-RRT-F: ✅ | 0.79s | Cost: 231.0   
+          Db-RRT-C: ✅ | 0.24s | Cost: 239.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 20/50 | env_seed=63263 | udf_seed=5311 | Obstacles: 63
+            RRT-MC: ✅ | 0.36s | Cost: 211.0   
+            RRT-EB: ✅ | 2.22s | Cost: 192.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ✅ | 3.00s | Cost: 184.0   
+          GBRRT-MC: ✅ | 1.28s | Cost: 231.0   
+          GBRRT-EB: ✅ | 0.39s | Cost: 199.0   
+              BBoE: ✅ | 0.27s | Cost: 226.0   
+          Db-RRT-F: ✅ | 0.26s | Cost: 222.0   
+          Db-RRT-C: ✅ | 0.46s | Cost: 248.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 21/50 | env_seed=18795 | udf_seed=83104 | Obstacles: 63
+            RRT-MC: ✅ | 0.63s | Cost: 197.0   
+            RRT-EB: ✅ | 1.80s | Cost: 193.0   
+            SST-MC: ✅ | 0.89s | Cost: 205.0   
+            SST-EB: ✅ | 0.66s | Cost: 196.0   
+          GBRRT-MC: ✅ | 1.59s | Cost: 208.0   
+          GBRRT-EB: ✅ | 0.67s | Cost: 197.0   
+              BBoE: ✅ | 0.20s | Cost: 253.0   
+          Db-RRT-F: ❌ | 1.29s | Cost: inf     
+          Db-RRT-C: ✅ | 0.93s | Cost: 243.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 22/50 | env_seed=3862 | udf_seed=53707 | Obstacles: 63
+            RRT-MC: ✅ | 1.21s | Cost: 204.0   
+            RRT-EB: ✅ | 0.42s | Cost: 200.0   
+            SST-MC: ✅ | 1.60s | Cost: 202.5   
+            SST-EB: ✅ | 0.65s | Cost: 193.0   
+          GBRRT-MC: ✅ | 0.55s | Cost: 221.0   
+          GBRRT-EB: ✅ | 0.94s | Cost: 211.0   
+              BBoE: ✅ | 0.16s | Cost: 218.0   
+          Db-RRT-F: ✅ | 1.16s | Cost: 240.0   
+          Db-RRT-C: ✅ | 0.32s | Cost: 228.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 23/50 | env_seed=79820 | udf_seed=85305 | Obstacles: 63
+            RRT-MC: ✅ | 0.31s | Cost: 195.0   
+            RRT-EB: ✅ | 0.51s | Cost: 206.0   
+            SST-MC: ✅ | 0.36s | Cost: 195.0   
+            SST-EB: ✅ | 0.55s | Cost: 202.0   
+          GBRRT-MC: ✅ | 0.39s | Cost: 185.0   
+          GBRRT-EB: ✅ | 0.33s | Cost: 195.0   
+              BBoE: ✅ | 0.15s | Cost: 183.0   
+          Db-RRT-F: ✅ | 0.20s | Cost: 189.0   
+          Db-RRT-C: ✅ | 0.25s | Cost: 265.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 24/50 | env_seed=57886 | udf_seed=28693 | Obstacles: 63
+            RRT-MC: ✅ | 0.40s | Cost: 159.0   
+            RRT-EB: ✅ | 0.11s | Cost: 124.5   
+            SST-MC: ✅ | 0.30s | Cost: 182.0   
+            SST-EB: ✅ | 0.11s | Cost: 124.5   
+          GBRRT-MC: ✅ | 0.19s | Cost: 136.0   
+          GBRRT-EB: ✅ | 0.21s | Cost: 194.0   
+              BBoE: ✅ | 0.11s | Cost: 157.0   
+          Db-RRT-F: ✅ | 0.34s | Cost: 258.0   
+          Db-RRT-C: ✅ | 0.24s | Cost: 266.0   
+               BoE: ✅ | 3.44s | Cost: 108.50000000000006
+
+  Trial 25/50 | env_seed=9266 | udf_seed=71932 | Obstacles: 63
+            RRT-MC: ✅ | 1.18s | Cost: 304.0   
+            RRT-EB: ✅ | 1.28s | Cost: 201.0   
+            SST-MC: ✅ | 3.16s | Cost: 193.0   
+            SST-EB: ✅ | 0.87s | Cost: 201.0   
+          GBRRT-MC: ✅ | 1.11s | Cost: 230.0   
+          GBRRT-EB: ✅ | 1.81s | Cost: 263.0   
+              BBoE: ✅ | 0.38s | Cost: 251.0   
+          Db-RRT-F: ❌ | 1.03s | Cost: inf     
+          Db-RRT-C: ✅ | 0.83s | Cost: 258.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 26/50 | env_seed=85390 | udf_seed=93016 | Obstacles: 63
+            RRT-MC: ✅ | 0.65s | Cost: 168.0   
+            RRT-EB: ✅ | 0.11s | Cost: 156.0   
+            SST-MC: ✅ | 1.84s | Cost: 165.0   
+            SST-EB: ✅ | 0.12s | Cost: 156.0   
+          GBRRT-MC: ✅ | 0.27s | Cost: 159.0   
+          GBRRT-EB: ✅ | 0.20s | Cost: 169.0   
+              BBoE: ✅ | 0.10s | Cost: 177.0   
+          Db-RRT-F: ✅ | 0.36s | Cost: 238.0   
+          Db-RRT-C: ✅ | 0.10s | Cost: 217.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 27/50 | env_seed=40194 | udf_seed=25658 | Obstacles: 63
+            RRT-MC: ✅ | 0.43s | Cost: 173.0   
+            RRT-EB: ✅ | 0.42s | Cost: 142.0   
+            SST-MC: ✅ | 0.53s | Cost: 161.0   
+            SST-EB: ✅ | 0.40s | Cost: 146.0   
+          GBRRT-MC: ✅ | 1.50s | Cost: 218.0   
+          GBRRT-EB: ✅ | 0.20s | Cost: 157.0   
+              BBoE: ✅ | 0.23s | Cost: 177.0   
+          Db-RRT-F: ❌ | 1.16s | Cost: inf     
+          Db-RRT-C: ✅ | 1.03s | Cost: 271.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 28/50 | env_seed=90499 | udf_seed=84478 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ❌ | 5.00s | Cost: inf     
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ✅ | 4.49s | Cost: 137.0   
+          GBRRT-MC: ✅ | 0.12s | Cost: 146.0   
+          GBRRT-EB: ✅ | 0.37s | Cost: 153.0   
+              BBoE: ✅ | 0.19s | Cost: 160.0   
+          Db-RRT-F: ❌ | 1.21s | Cost: inf     
+          Db-RRT-C: ❌ | 0.97s | Cost: inf     
+               BoE: ✅ | 3.29s | Cost: 117.40000000000003
+
+  Trial 29/50 | env_seed=47131 | udf_seed=18431 | Obstacles: 63
+            RRT-MC: ✅ | 0.28s | Cost: 178.0   
+            RRT-EB: ✅ | 0.28s | Cost: 185.0   
+            SST-MC: ✅ | 0.50s | Cost: 198.0   
+            SST-EB: ✅ | 0.33s | Cost: 193.0   
+          GBRRT-MC: ✅ | 0.14s | Cost: 167.0   
+          GBRRT-EB: ✅ | 0.19s | Cost: 173.0   
+              BBoE: ✅ | 0.24s | Cost: 234.0   
+          Db-RRT-F: ✅ | 0.63s | Cost: 266.0   
+          Db-RRT-C: ✅ | 0.64s | Cost: 251.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 30/50 | env_seed=63263 | udf_seed=2747 | Obstacles: 63
+            RRT-MC: ✅ | 2.28s | Cost: 198.0   
+            RRT-EB: ✅ | 0.47s | Cost: 198.0   
+            SST-MC: ✅ | 0.63s | Cost: 181.0   
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 3.48s | Cost: 314.0   
+          GBRRT-EB: ✅ | 0.35s | Cost: 197.0   
+              BBoE: ✅ | 0.74s | Cost: 245.0   
+          Db-RRT-F: ✅ | 0.37s | Cost: 248.0   
+          Db-RRT-C: ❌ | 1.25s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 31/50 | env_seed=18795 | udf_seed=59150 | Obstacles: 63
+            RRT-MC: ✅ | 2.09s | Cost: 186.0   
+            RRT-EB: ✅ | 1.23s | Cost: 212.0   
+            SST-MC: ✅ | 0.79s | Cost: 194.0   
+            SST-EB: ✅ | 1.44s | Cost: 183.0   
+          GBRRT-MC: ✅ | 0.93s | Cost: 211.0   
+          GBRRT-EB: ✅ | 0.30s | Cost: 192.0   
+              BBoE: ✅ | 0.13s | Cost: 192.0   
+          Db-RRT-F: ❌ | 1.92s | Cost: inf     
+          Db-RRT-C: ✅ | 0.46s | Cost: 305.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 32/50 | env_seed=3862 | udf_seed=65725 | Obstacles: 63
+            RRT-MC: ✅ | 0.86s | Cost: 209.0   
+            RRT-EB: ✅ | 0.56s | Cost: 185.0   
+            SST-MC: ✅ | 1.13s | Cost: 199.0   
+            SST-EB: ✅ | 0.57s | Cost: 204.0   
+          GBRRT-MC: ✅ | 0.52s | Cost: 201.0   
+          GBRRT-EB: ✅ | 0.44s | Cost: 183.0   
+              BBoE: ✅ | 0.23s | Cost: 275.0   
+          Db-RRT-F: ✅ | 0.76s | Cost: 253.0   
+          Db-RRT-C: ✅ | 1.19s | Cost: 269.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 33/50 | env_seed=79820 | udf_seed=84654 | Obstacles: 63
+            RRT-MC: ✅ | 0.27s | Cost: 178.0   
+            RRT-EB: ✅ | 0.50s | Cost: 206.0   
+            SST-MC: ✅ | 0.46s | Cost: 202.0   
+            SST-EB: ✅ | 0.84s | Cost: 177.0   
+          GBRRT-MC: ✅ | 0.31s | Cost: 178.0   
+          GBRRT-EB: ✅ | 0.27s | Cost: 166.0   
+              BBoE: ✅ | 0.24s | Cost: 216.0   
+          Db-RRT-F: ✅ | 0.23s | Cost: 224.0   
+          Db-RRT-C: ✅ | 0.22s | Cost: 224.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 34/50 | env_seed=57886 | udf_seed=35773 | Obstacles: 63
+            RRT-MC: ✅ | 0.68s | Cost: 190.0   
+            RRT-EB: ✅ | 0.43s | Cost: 160.0   
+            SST-MC: ✅ | 0.28s | Cost: 139.0   
+            SST-EB: ✅ | 0.20s | Cost: 143.0   
+          GBRRT-MC: ✅ | 0.17s | Cost: 142.0   
+          GBRRT-EB: ✅ | 0.15s | Cost: 169.0   
+              BBoE: ✅ | 0.07s | Cost: 168.0   
+          Db-RRT-F: ✅ | 0.06s | Cost: 177.0   
+          Db-RRT-C: ✅ | 0.12s | Cost: 188.0   
+               BoE: ✅ | 3.20s | Cost: 108.1   
+
+  Trial 35/50 | env_seed=9266 | udf_seed=67435 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ❌ | 5.00s | Cost: inf     
+            SST-MC: ✅ | 1.73s | Cost: 223.0   
+            SST-EB: ✅ | 1.29s | Cost: 223.0   
+          GBRRT-MC: ✅ | 2.51s | Cost: 344.0   
+          GBRRT-EB: ✅ | 0.47s | Cost: 215.0   
+              BBoE: ✅ | 0.69s | Cost: 286.0   
+          Db-RRT-F: ❌ | 1.05s | Cost: inf     
+          Db-RRT-C: ❌ | 1.42s | Cost: inf     
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 36/50 | env_seed=85390 | udf_seed=56886 | Obstacles: 63
+            RRT-MC: ✅ | 0.14s | Cost: 147.0   
+            RRT-EB: ✅ | 0.33s | Cost: 161.0   
+            SST-MC: ✅ | 0.32s | Cost: 148.0   
+            SST-EB: ✅ | 0.24s | Cost: 147.0   
+          GBRRT-MC: ✅ | 1.24s | Cost: 184.0   
+          GBRRT-EB: ✅ | 0.40s | Cost: 196.0   
+              BBoE: ✅ | 0.19s | Cost: 197.0   
+          Db-RRT-F: ❌ | 1.15s | Cost: inf     
+          Db-RRT-C: ✅ | 0.09s | Cost: 209.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 37/50 | env_seed=40194 | udf_seed=66803 | Obstacles: 63
+            RRT-MC: ✅ | 1.53s | Cost: 223.0   
+            RRT-EB: ❌ | 5.00s | Cost: inf     
+            SST-MC: ✅ | 2.53s | Cost: 224.0   
+            SST-EB: ✅ | 1.18s | Cost: 158.0   
+          GBRRT-MC: ✅ | 0.33s | Cost: 156.0   
+          GBRRT-EB: ✅ | 0.42s | Cost: 178.0   
+              BBoE: ✅ | 0.69s | Cost: 181.0   
+          Db-RRT-F: ✅ | 0.33s | Cost: 195.0   
+          Db-RRT-C: ❌ | 1.20s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 38/50 | env_seed=90499 | udf_seed=31551 | Obstacles: 63
+            RRT-MC: ❌ | 5.00s | Cost: inf     
+            RRT-EB: ✅ | 0.34s | Cost: 157.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 0.22s | Cost: 148.0   
+          GBRRT-EB: ✅ | 0.36s | Cost: 165.0   
+              BBoE: ✅ | 0.09s | Cost: 151.0   
+          Db-RRT-F: ❌ | 1.58s | Cost: inf     
+          Db-RRT-C: ❌ | 1.21s | Cost: inf     
+               BoE: ✅ | 0.38s | Cost: 119.20000000000002
+
+  Trial 39/50 | env_seed=47131 | udf_seed=11394 | Obstacles: 63
+            RRT-MC: ✅ | 0.43s | Cost: 165.0   
+            RRT-EB: ✅ | 0.30s | Cost: 198.0   
+            SST-MC: ✅ | 0.82s | Cost: 202.0   
+            SST-EB: ✅ | 0.36s | Cost: 194.0   
+          GBRRT-MC: ✅ | 0.53s | Cost: 249.0   
+          GBRRT-EB: ✅ | 0.35s | Cost: 204.0   
+              BBoE: ✅ | 0.10s | Cost: 193.0   
+          Db-RRT-F: ✅ | 0.25s | Cost: 238.0   
+          Db-RRT-C: ✅ | 0.47s | Cost: 252.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 40/50 | env_seed=63263 | udf_seed=69092 | Obstacles: 63
+            RRT-MC: ✅ | 0.33s | Cost: 199.0   
+            RRT-EB: ✅ | 0.51s | Cost: 189.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 2.35s | Cost: 337.0   
+          GBRRT-EB: ✅ | 1.88s | Cost: 330.0   
+              BBoE: ✅ | 0.28s | Cost: 240.0   
+          Db-RRT-F: ❌ | 1.20s | Cost: inf     
+          Db-RRT-C: ❌ | 1.16s | Cost: inf     
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 41/50 | env_seed=18795 | udf_seed=3890 | Obstacles: 63
+            RRT-MC: ✅ | 1.17s | Cost: 194.0   
+            RRT-EB: ✅ | 0.35s | Cost: 189.0   
+            SST-MC: ✅ | 2.47s | Cost: 194.0   
+            SST-EB: ✅ | 0.36s | Cost: 189.0   
+          GBRRT-MC: ✅ | 0.34s | Cost: 196.0   
+          GBRRT-EB: ✅ | 0.22s | Cost: 185.0   
+              BBoE: ✅ | 0.40s | Cost: 235.0   
+          Db-RRT-F: ❌ | 1.44s | Cost: inf     
+          Db-RRT-C: ✅ | 0.38s | Cost: 242.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 42/50 | env_seed=3862 | udf_seed=41606 | Obstacles: 63
+            RRT-MC: ✅ | 0.67s | Cost: 208.0   
+            RRT-EB: ✅ | 0.44s | Cost: 188.0   
+            SST-MC: ✅ | 2.24s | Cost: 195.0   
+            SST-EB: ✅ | 0.50s | Cost: 190.0   
+          GBRRT-MC: ✅ | 0.32s | Cost: 199.0   
+          GBRRT-EB: ✅ | 0.79s | Cost: 206.0   
+              BBoE: ✅ | 0.20s | Cost: 198.0   
+          Db-RRT-F: ✅ | 0.98s | Cost: 250.0   
+          Db-RRT-C: ✅ | 1.30s | Cost: 317.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 43/50 | env_seed=79820 | udf_seed=96276 | Obstacles: 63
+            RRT-MC: ✅ | 0.53s | Cost: 194.0   
+            RRT-EB: ✅ | 0.52s | Cost: 200.0   
+            SST-MC: ✅ | 0.63s | Cost: 198.0   
+            SST-EB: ✅ | 0.40s | Cost: 197.0   
+          GBRRT-MC: ✅ | 0.26s | Cost: 218.0   
+          GBRRT-EB: ✅ | 0.24s | Cost: 155.0   
+              BBoE: ✅ | 0.30s | Cost: 192.0   
+          Db-RRT-F: ✅ | 0.49s | Cost: 284.0   
+          Db-RRT-C: ✅ | 0.33s | Cost: 288.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 44/50 | env_seed=57886 | udf_seed=80038 | Obstacles: 63
+            RRT-MC: ✅ | 0.17s | Cost: 188.0   
+            RRT-EB: ✅ | 0.30s | Cost: 171.0   
+            SST-MC: ✅ | 0.21s | Cost: 188.0   
+            SST-EB: ✅ | 0.35s | Cost: 186.5   
+          GBRRT-MC: ✅ | 0.14s | Cost: 124.0   
+          GBRRT-EB: ✅ | 0.55s | Cost: 208.0   
+              BBoE: ✅ | 0.11s | Cost: 147.0   
+          Db-RRT-F: ✅ | 0.98s | Cost: 255.0   
+          Db-RRT-C: ✅ | 0.07s | Cost: 217.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 45/50 | env_seed=9266 | udf_seed=87313 | Obstacles: 63
+            RRT-MC: ✅ | 1.77s | Cost: 221.0   
+            RRT-EB: ✅ | 0.80s | Cost: 206.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ✅ | 1.38s | Cost: 191.0   
+          GBRRT-MC: ✅ | 1.96s | Cost: 265.0   
+          GBRRT-EB: ✅ | 0.63s | Cost: 243.0   
+              BBoE: ✅ | 0.55s | Cost: 304.0   
+          Db-RRT-F: ❌ | 1.12s | Cost: inf     
+          Db-RRT-C: ❌ | 1.25s | Cost: inf     
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 46/50 | env_seed=85390 | udf_seed=10627 | Obstacles: 63
+            RRT-MC: ✅ | 1.10s | Cost: 173.0   
+            RRT-EB: ✅ | 0.12s | Cost: 168.0   
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ✅ | 0.12s | Cost: 168.0   
+          GBRRT-MC: ✅ | 0.26s | Cost: 161.0   
+          GBRRT-EB: ✅ | 0.34s | Cost: 185.0   
+              BBoE: ✅ | 0.24s | Cost: 189.0   
+          Db-RRT-F: ❌ | 1.49s | Cost: inf     
+          Db-RRT-C: ✅ | 0.18s | Cost: 219.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 47/50 | env_seed=40194 | udf_seed=8792 | Obstacles: 63
+            RRT-MC: ✅ | 0.82s | Cost: 216.0   
+            RRT-EB: ✅ | 1.82s | Cost: 206.0   
+            SST-MC: ✅ | 1.76s | Cost: 242.0   
+            SST-EB: ✅ | 1.35s | Cost: 201.0   
+          GBRRT-MC: ✅ | 0.21s | Cost: 171.0   
+          GBRRT-EB: ✅ | 0.26s | Cost: 172.0   
+              BBoE: ✅ | 0.25s | Cost: 177.0   
+          Db-RRT-F: ✅ | 0.51s | Cost: 253.0   
+          Db-RRT-C: ✅ | 0.38s | Cost: 253.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+  Trial 48/50 | env_seed=90499 | udf_seed=73969 | Obstacles: 63
+            RRT-MC: ✅ | 0.22s | Cost: 164.0   
+            RRT-EB: ❌ | 5.00s | Cost: inf     
+            SST-MC: ❌ | 5.00s | Cost: inf     
+            SST-EB: ❌ | 5.00s | Cost: inf     
+          GBRRT-MC: ✅ | 0.28s | Cost: 171.0   
+          GBRRT-EB: ✅ | 0.21s | Cost: 156.0   
+              BBoE: ✅ | 0.35s | Cost: 182.0   
+          Db-RRT-F: ❌ | 1.09s | Cost: inf     
+          Db-RRT-C: ❌ | 1.16s | Cost: inf     
+               BoE: ✅ | 0.96s | Cost: 118.40000000000002
+
+  Trial 49/50 | env_seed=47131 | udf_seed=43001 | Obstacles: 63
+            RRT-MC: ✅ | 0.21s | Cost: 168.0   
+            RRT-EB: ✅ | 0.27s | Cost: 174.0   
+            SST-MC: ✅ | 0.32s | Cost: 168.0   
+            SST-EB: ✅ | 0.35s | Cost: 202.0   
+          GBRRT-MC: ✅ | 0.20s | Cost: 183.0   
+          GBRRT-EB: ✅ | 0.14s | Cost: 163.0   
+              BBoE: ✅ | 0.16s | Cost: 205.0   
+          Db-RRT-F: ✅ | 0.11s | Cost: 205.0   
+          Db-RRT-C: ✅ | 0.76s | Cost: 244.0   
+               BoE: ❌ | 5.00s | Cost: inf     
+
+  Trial 50/50 | env_seed=63263 | udf_seed=76552 | Obstacles: 63
+            RRT-MC: ✅ | 0.38s | Cost: 215.0   
+            RRT-EB: ✅ | 0.34s | Cost: 230.0   
+            SST-MC: ✅ | 0.39s | Cost: 209.0   
+            SST-EB: ✅ | 4.49s | Cost: 202.0   
+          GBRRT-MC: ✅ | 1.06s | Cost: 252.0   
+          GBRRT-EB: ✅ | 0.44s | Cost: 198.0   
+              BBoE: ✅ | 4.88s | Cost: 455.0   
+          Db-RRT-F: ❌ | 0.97s | Cost: inf     
+          Db-RRT-C: ✅ | 0.41s | Cost: 277.0   
+               BoE: ❌ | 5.01s | Cost: inf     
+
+
+==========================================================================================
+                                  SUMMARY (CURATED ENVS)                                  
+==========================================================================================
+       Planner |         Easy         |        Medium        |         Hard         |      Very Hard      
+------------------------------------------------------------------------------------------
+        RRT-MC |   100% (50/50)         |   100% (50/50)         |    92% (46/50)         |    88% (44/50)        
+        RRT-EB |   100% (50/50)         |   100% (50/50)         |   100% (50/50)         |    90% (45/50)        
+        SST-MC |   100% (50/50)         |   100% (50/50)         |   100% (50/50)         |    82% (41/50)        
+        SST-EB |   100% (50/50)         |   100% (50/50)         |   100% (50/50)         |    88% (44/50)        
+      GBRRT-MC |   100% (50/50)         |   100% (50/50)         |    98% (49/50)         |   100% (50/50)        
+      GBRRT-EB |   100% (50/50)         |   100% (50/50)         |   100% (50/50)         |   100% (50/50)        
+          BBoE |   100% (50/50)         |   100% (50/50)         |   100% (50/50)         |   100% (50/50)        
+      Db-RRT-F |   100% (50/50)         |   100% (50/50)         |    90% (45/50)         |    52% (26/50)        
+      Db-RRT-C |   100% (50/50)         |   100% (50/50)         |    96% (48/50)         |    70% (35/50)        
+           BoE |   100% (50/50)         |    62% (31/50)         |    60% (30/50)         |    18% ( 9/50)        
+
+               | Avg Time / Avg Cost  | Avg Time / Avg Cost  | Avg Time / Avg Cost  | Avg Time / Avg Cost 
+------------------------------------------------------------------------------------------
+        RRT-MC |  0.17s /   133.4     |  0.25s /   158.7     |  0.42s /   162.8     |  0.77s /   191.3    
+        RRT-EB |  0.13s /   129.3     |  0.23s /   154.4     |  0.40s /   159.1     |  0.80s /   184.3    
+        SST-MC |  0.17s /   133.7     |  0.30s /   158.4     |  0.52s /   158.3     |  0.94s /   188.4    
+        SST-EB |  0.14s /   128.6     |  0.26s /   155.5     |  0.47s /   158.6     |  0.99s /   186.0    
+      GBRRT-MC |  0.10s /   134.6     |  0.22s /   160.3     |  0.35s /   166.3     |  0.75s /   199.8    
+      GBRRT-EB |  0.09s /   133.9     |  0.20s /   160.6     |  0.42s /   175.0     |  0.48s /   191.3    
+          BBoE |  0.10s /   145.3     |  0.13s /   177.0     |  0.18s /   175.8     |  0.35s /   207.9    
+      Db-RRT-F |  0.03s /   139.6     |  0.20s /   188.1     |  0.31s /   192.1     |  0.51s /   231.7    
+      Db-RRT-C |  0.05s /   176.8     |  0.18s /   218.4     |  0.26s /   214.5     |  0.49s /   247.5    
+           BoE |  0.21s /    99.7     |  1.83s /   117.8     |  0.90s /   112.1     |  2.40s /   114.1    
+
+==========================================================================================
